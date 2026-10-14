@@ -1,0 +1,49 @@
+{
+  "title": "The Little Cloud Who Wanted to Rain",
+  "author": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "4-8 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A timid little cloud learns that letting go can be the bravest thing of all.",
+  "long_description": "Nimbus is a small cloud who loves floating in the sky, but he's terrified of raining. While all the other clouds joyfully water the world below, Nimbus holds himself together tightly, afraid he'll disappear if he lets go. But when he sees a thirsty garden and a sad little sparrow, he must find the courage to help. Through this gentle adventure, Nimbus discovers that letting go doesn't mean disappearing—it means becoming part of something beautiful. A heartwarming story about courage, self-confidence, and the joy of giving.",
+  "keywords": ["cloud", "rain", "courage", "self-confidence", "kindness", "nature", "weather", "fear", "bravery", "children's book"],
+  "themes": ["Courage", "Self-confidence", "Helping others", "Overcoming fear", "Nature's cycles"],
+  "page_count": 28,
+  "visual_style": "Soft watercolor storybook",
+  "color_palette": ["soft blues", "whites", "silver grays", "pastel greens", "warm yellows"],
+  "main_characters": [
+    {
+      "name": "Nimbus",
+      "type": "Cloud",
+      "description": "A small, round, fluffy white cloud with a nervous but kind expression. Has a slightly silvery glow.",
+      "personality": "Timid, thoughtful, caring, brave when needed"
+    },
+    {
+      "name": "Cumulus",
+      "type": "Cloud",
+      "description": "A large, fluffy white cloud who is wise and encouraging.",
+      "personality": "Jolly, wise, supportive"
+    },
+    {
+      "name": "Stratus",
+      "type": "Cloud",
+      "description": "A long, horizontal gray cloud who stretches across the sky.",
+      "personality": "Calm, patient, philosophical"
+    },
+    {
+      "name": "Sparrow",
+      "type": "Bird",
+      "description": "A small brown sparrow with a bandaged wing.",
+      "personality": "Gentle, hopeful"
+    }
+  ],
+  "settings": ["Sky", "Garden", "Cloud kingdom"],
+  "emotional_journey": "Fear -> Doubt -> Compassion -> Courage -> Joy",
+  "created_date": "2026-09-06",
+  "file_locations": {
+    "manuscript": "/home/user/children_books/01_The_Little_Cloud_Who_Wanted_to_Rain/manuscript/story.txt",
+    "illustrations_dir": "/home/user/children_books/01_The_Little_Cloud_Who_Wanted_to_Rain/illustrations/",
+    "cover_dir": "/home/user/children_books/01_The_Little_Cloud_Who_Wanted_to_Rain/cover/",
+    "pdf_dir": "/home/user/children_books/01_The_Little_Cloud_Who_Wanted_to_Rain/pdf/"
+  }
+}

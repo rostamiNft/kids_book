@@ -1,0 +1,45 @@
+{
+  "title": "Luna and the Moonlight Garden",
+  "author": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "4-8 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A girl discovers a magical garden that only appears in moonlight.",
+  "long_description": "Luna loves her grandmother's garden, but she's always wondered about the Moonlight Garden from Grandma's stories. One full moon night, she sneaks outside and discovers the garden is real—and it's magical! Flowers glow, plants dance, and a tiny ladybug with a flower crown becomes her guide. But when she finds a sad, bare branch on the Heart Tree, Luna must use her belief to bring the magic back. A enchanting story about wonder, curiosity, and the power of belief.",
+  "keywords": ["moonlight", "garden", "magic", "curiosity", "belief", "nature", "adventure", "grandmother", "fairy tale", "children's book"],
+  "themes": ["Wonder", "Curiosity", "Belief", "Magic of nature", "Intergenerational love"],
+  "page_count": 30,
+  "visual_style": "Dreamy pastel digital painting",
+  "color_palette": ["soft blues", "silver whites", "pastel purples", "warm golds", "deep greens"],
+  "main_characters": [
+    {
+      "name": "Luna",
+      "type": "Human",
+      "age": "6 years old",
+      "description": "A curious girl with dark curly hair and a blue nightgown. She has wide, wondering eyes and a gentle smile.",
+      "personality": "Curious, brave, kind, imaginative"
+    },
+    {
+      "name": "Grandma",
+      "type": "Human",
+      "age": "Elderly",
+      "description": "Luna's grandmother with silver hair in a bun, round glasses, and a warm, kind face. She wears a cozy sweater.",
+      "personality": "Wise, patient, loving, magical"
+    },
+    {
+      "name": "Ladybug",
+      "type": "Magical creature",
+      "description": "A tiny ladybug with iridescent wings that shimmer like moonbeams. She wears a crown of petals.",
+      "personality": "Playful, wise, kind, magical"
+    }
+  ],
+  "settings": ["Grandma's garden", "Moonlight Garden", "Luna's bedroom"],
+  "emotional_journey": "Curiosity -> Wonder -> Compassion -> Belief -> Joy",
+  "created_date": "2026-09-06",
+  "file_locations": {
+    "manuscript": "/home/user/children_books/02_Luna_and_the_Moonlight_Garden/manuscript/story.txt",
+    "illustrations_dir": "/home/user/children_books/02_Luna_and_the_Moonlight_Garden/illustrations/",
+    "cover_dir": "/home/user/children_books/02_Luna_and_the_Moonlight_Garden/cover/",
+    "pdf_dir": "/home/user/children_books/02_Luna_and_the_Moonlight_Garden/pdf/"
+  }
+}

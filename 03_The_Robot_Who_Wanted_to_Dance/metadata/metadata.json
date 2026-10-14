@@ -1,0 +1,43 @@
+{
+  "title": "The Robot Who Wanted to Dance",
+  "author": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "4-8 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A practical robot discovers the joy of self-expression through dance.",
+  "long_description": "Bolt is the best sorting robot in the factory—reliable, precise, and perfect. But when he hears music for the first time, something inside him changes. He wants to dance! But his stiff, practical body isn't made for dancing. With the help of his friend Spark, Bolt learns that being perfect isn't as important as being happy. And sometimes, the best way to sort things out is to let loose and dance. A heartwarming story about self-expression, joy, and breaking free from expectations.",
+  "keywords": ["robot", "dance", "self-expression", "joy", "factory", "music", "friendship", "creativity", "children's book"],
+  "themes": ["Self-expression", "Joy", "Breaking expectations", "Friendship", "Creativity"],
+  "page_count": 28,
+  "visual_style": "Playful geometric illustration",
+  "color_palette": ["metallic silvers", "bright blues", "warm reds", "sunny yellows", "deep purples"],
+  "main_characters": [
+    {
+      "name": "Bolt",
+      "type": "Robot",
+      "description": "A boxy silver robot with a round head, glowing blue eyes, and stiff, practical limbs. He has a display screen on his chest.",
+      "personality": "Practical, reliable, determined, learns to be joyful"
+    },
+    {
+      "name": "Spark",
+      "type": "Robot",
+      "description": "A small, round maintenance robot with a tool belt, cheerful face, and glowing eyes.",
+      "personality": "Cheerful, encouraging, playful, supportive"
+    },
+    {
+      "name": "Foreman Clank",
+      "type": "Robot",
+      "description": "A large, broad robot with a clipboard and a deep, authoritative voice.",
+      "personality": "Authoritative but kind, practical, supportive"
+    }
+  ],
+  "settings": ["Robot Factory", "Factory floor", "Break area"],
+  "emotional_journey": "Contentment -> Curiosity -> Doubt -> Courage -> Joy",
+  "created_date": "2026-09-06",
+  "file_locations": {
+    "manuscript": "/home/user/children_books/03_The_Robot_Who_Wanted_to_Dance/manuscript/story.txt",
+    "illustrations_dir": "/home/user/children_books/03_The_Robot_Who_Wanted_to_Dance/illustrations/",
+    "cover_dir": "/home/user/children_books/03_The_Robot_Who_Wanted_to_Dance/cover/",
+    "pdf_dir": "/home/user/children_books/03_The_Robot_Who_Wanted_to_Dance/pdf/"
+  }
+}

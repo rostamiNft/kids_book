@@ -1,0 +1,49 @@
+{
+  "title": "The Tiny Giant",
+  "author": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "4-8 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A very small creature proves that heart size matters more than body size.",
+  "long_description": "Pip is so small he can hide behind a blade of grass, but he believes he's a giant. The other forest creatures laugh at him, but Pip doesn't mind. When a great wind blows through the forest and causes trouble—knocking down a bird's nest, destroying a mouse's home, and covering a fox's play area—Pip steps up to help. Using his small size to his advantage, he digs a new home for the mice, repairs the bird's nest, and organizes the other small creatures to clear the fox's play area. In the end, the forest creatures realize that Pip may be small in size, but he has the heart of a giant. A heartwarming story about self-perception, kindness, and inner strength.",
+  "keywords": ["size", "kindness", "self-perception", "helping others", "forest", "adventure", "confidence", "children's book"],
+  "themes": ["Self-perception", "Kindness", "Inner strength", "Helping others", "Confidence"],
+  "page_count": 28,
+  "visual_style": "Textured storybook art",
+  "color_palette": ["earthy greens", "warm browns", "soft moss colors", "deep forest greens", "sunlit golds"],
+  "main_characters": [
+    {
+      "name": "Pip",
+      "type": "Forest creature",
+      "description": "A very small, round creature with oversized ears, a tiny body, and a cheerful expression. He has soft, moss-colored fur.",
+      "personality": "Confident, kind, determined, helpful, optimistic"
+    },
+    {
+      "name": "Squirrel",
+      "type": "Animal",
+      "description": "A typical squirrel with a bushy tail and bright eyes.",
+      "personality": "Playful, initially skeptical, grateful"
+    },
+    {
+      "name": "Fox",
+      "type": "Animal",
+      "description": "A red fox with a fluffy tail and kind eyes.",
+      "personality": "Friendly, playful, appreciative"
+    },
+    {
+      "name": "Bird",
+      "type": "Animal",
+      "description": "A small bird with brown and white feathers.",
+      "personality": "Gentle, grateful"
+    }
+  ],
+  "settings": ["Forest", "Pip's mushroom home", "Bird's nest", "Fox's play area"],
+  "emotional_journey": "Confidence -> Determination -> Compassion -> Action -> Pride",
+  "created_date": "2026-09-06",
+  "file_locations": {
+    "manuscript": "/home/user/children_books/06_The_Tiny_Giant/manuscript/story.txt",
+    "illustrations_dir": "/home/user/children_books/06_The_Tiny_Giant/illustrations/",
+    "cover_dir": "/home/user/children_books/06_The_Tiny_Giant/cover/",
+    "pdf_dir": "/home/user/children_books/06_The_Tiny_Giant/pdf/"
+  }
+}
