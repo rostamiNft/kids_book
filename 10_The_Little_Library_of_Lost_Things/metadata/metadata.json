@@ -1,0 +1,60 @@
+{
+  "title": "The Little Library of Lost Things",
+  "author": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "4-8 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A magical library where lost items tell their stories.",
+  "long_description": "At the end of Maple Street stands the Little Library of Lost Things, run by the kind Ms. Willow. She has a special gift—she can hear the stories of lost things. Children come to her library to find their missing treasures, and Ms. Willow tells them the adventures their items have been on. When Sam loses his favorite toy car, Ms. Willow helps him find it and shares its journey. When Emily loses her best friend who moved away, Ms. Willow gives her a stone from the Friendship Box to help her stay connected. The library becomes a place where lost things are found, stories are told, and hearts are healed. A heartwarming story about empathy, connection, and the magic of stories.",
+  "keywords": ["library", "lost things", "stories", "empathy", "connection", "kindness", "community", "children's book"],
+  "themes": ["Empathy", "Connection", "Belonging", "Storytelling", "Community"],
+  "page_count": 32,
+  "visual_style": "Cozy pastel illustration",
+  "color_palette": ["warm browns", "soft creams", "gentle blues", "cozy reds", "earthy greens"],
+  "main_characters": [
+    {
+      "name": "Ms. Willow",
+      "type": "Human",
+      "age": "Elderly",
+      "description": "An elderly woman with silver hair in a bun, round glasses, and a warm, kind face. She wears cozy sweaters and has a gentle smile.",
+      "personality": "Wise, kind, empathetic, patient, welcoming"
+    },
+    {
+      "name": "Sam",
+      "type": "Human",
+      "age": "6 years old",
+      "description": "A boy with messy hair and a sad expression when he loses his toy car. He looks hopeful when searching.",
+      "personality": "Determined, hopeful, grateful"
+    },
+    {
+      "name": "Mia",
+      "type": "Human",
+      "age": "7 years old",
+      "description": "A girl with brown hair who lost her sock. She looks relieved when she finds it.",
+      "personality": "Curious, relieved, happy"
+    },
+    {
+      "name": "Jake",
+      "type": "Human",
+      "age": "8 years old",
+      "description": "A boy who lost his key. He looks thoughtful when hearing its story.",
+      "personality": "Thoughtful, grateful"
+    },
+    {
+      "name": "Emily",
+      "type": "Human",
+      "age": "7 years old",
+      "description": "A girl with soft brown hair who misses her best friend. She looks sad but hopeful.",
+      "personality": "Kind, sad, hopeful, grateful"
+    }
+  ],
+  "settings": ["The Little Library of Lost Things", "Maple Street", "Ms. Willow's cozy interior"],
+  "emotional_journey": "Curiosity -> Searching -> Discovery -> Connection -> Contentment",
+  "created_date": "2026-09-06",
+  "file_locations": {
+    "manuscript": "/home/user/children_books/10_The_Little_Library_of_Lost_Things/manuscript/story.txt",
+    "illustrations_dir": "/home/user/children_books/10_The_Little_Library_of_Lost_Things/illustrations/",
+    "cover_dir": "/home/user/children_books/10_The_Little_Library_of_Lost_Things/cover/",
+    "pdf_dir": "/home/user/children_books/10_The_Little_Library_of_Lost_Things/pdf/"
+  }
+}
