@@ -1,0 +1,56 @@
+{
+  "title": "The Day the Colors Ran Away",
+  "author": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "4-8 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A boy must convince the colors to return to a gray world.",
+  "long_description": "Milo loves colors, but one morning he wakes up to a world without them—everything is gray! Determined to fix things, he sets out on a quest and discovers that the colors have taken a day off. Red, Blue, Green, and Yellow explain that being a color is hard work and no one appreciates them. Milo must convince them that the world needs them and that he will always appreciate their beauty. A vibrant story about appreciation, creativity, and the magic of color.",
+  "keywords": ["colors", "appreciation", "creativity", "adventure", "problem-solving", "imagination", "art", "children's book"],
+  "themes": ["Appreciation", "Creativity", "Value of diversity", "Problem-solving", "Seeing beauty"],
+  "page_count": 32,
+  "visual_style": "Bold colorful gouache",
+  "color_palette": ["primary red", "primary blue", "primary yellow", "rich green", "deep purple", "warm orange"],
+  "main_characters": [
+    {
+      "name": "Milo",
+      "type": "Human",
+      "age": "5 years old",
+      "description": "A boy with messy brown hair, freckles, and a red shirt. He has a determined expression and carries a crayon box.",
+      "personality": "Determined, creative, observant, kind"
+    },
+    {
+      "name": "Red",
+      "type": "Color personification",
+      "description": "The color red in the shape of a small, round figure with rosy cheeks and a bright red dress.",
+      "personality": "Playful, warm, energetic"
+    },
+    {
+      "name": "Blue",
+      "type": "Color personification",
+      "description": "The color blue in the shape of a tall, slender figure with a flowing blue dress.",
+      "personality": "Calm, wise, gentle"
+    },
+    {
+      "name": "Green",
+      "type": "Color personification",
+      "description": "The color green in the shape of a figure with leaf-like hair and a green tunic.",
+      "personality": "Thoughtful, patient, nurturing"
+    },
+    {
+      "name": "Yellow",
+      "type": "Color personification",
+      "description": "The color yellow in the shape of a bright, round figure with a sunny dress.",
+      "personality": "Cheerful, optimistic, hungry"
+    }
+  ],
+  "settings": ["Milo's house", "Gray world", "Park", "Milo's bedroom"],
+  "emotional_journey": "Confusion -> Determination -> Empathy -> Persuasion -> Appreciation",
+  "created_date": "2026-09-06",
+  "file_locations": {
+    "manuscript": "/home/user/children_books/04_The_Day_the_Colors_Ran_Away/manuscript/story.txt",
+    "illustrations_dir": "/home/user/children_books/04_The_Day_the_Colors_Ran_Away/illustrations/",
+    "cover_dir": "/home/user/children_books/04_The_Day_the_Colors_Ran_Away/cover/",
+    "pdf_dir": "/home/user/children_books/04_The_Day_the_Colors_Ran_Away/pdf/"
+  }
+}

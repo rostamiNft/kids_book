@@ -1,0 +1,56 @@
+{
+  "title": "The Quiet Little Drum",
+  "author": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "4-8 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A drum that can't make noise discovers the beauty of quiet sounds.",
+  "long_description": "In Mr. Harmony's music shop, every instrument has a voice except Drum. He tries and tries but can't make a sound. Feeling broken and left out, he rolls into a quiet corner. But when Lily, a kind little girl, takes him home, Drum discovers he has a special gift—he can make quiet sounds, the kind you have to listen very carefully to hear. When a lost kitten needs help, Drum uses his quiet tapping to alert Lily, proving that even the softest sounds can make a big difference. A gentle story about listening, self-acceptance, and the beauty of quiet.",
+  "keywords": ["drum", "music", "quiet", "listening", "self-acceptance", "kindness", "patience", "children's book"],
+  "themes": ["Listening", "Self-acceptance", "Patience", "Quiet strength", "Empathy"],
+  "page_count": 26,
+  "visual_style": "Paper-cut illustration",
+  "color_palette": ["warm browns", "soft creams", "deep reds", "golden yellows", "gentle grays"],
+  "main_characters": [
+    {
+      "name": "Drum",
+      "type": "Musical instrument",
+      "description": "A small, round drum with a wooden body and a soft leather top. He has a gentle, almost sad expression.",
+      "personality": "Quiet, thoughtful, kind, determined"
+    },
+    {
+      "name": "Lily",
+      "type": "Human",
+      "age": "7 years old",
+      "description": "A little girl with soft brown hair, kind eyes, and a gentle smile. She wears a cozy nightgown.",
+      "personality": "Kind, empathetic, patient, curious"
+    },
+    {
+      "name": "Violin",
+      "type": "Musical instrument",
+      "description": "A violin with a smooth wooden body and strings that hum when she plays.",
+      "personality": "Kind, musical, encouraging"
+    },
+    {
+      "name": "Trumpet",
+      "type": "Musical instrument",
+      "description": "A brass trumpet with a shiny surface and a loud voice.",
+      "personality": "Enthusiastic, loud, well-meaning"
+    },
+    {
+      "name": "Kitten",
+      "type": "Animal",
+      "description": "A small, lost kitten with soft fur and a sad meow.",
+      "personality": "Scared, relieved, grateful"
+    }
+  ],
+  "settings": ["Mr. Harmony's music shop", "Lily's bedroom", "Outside Lily's window"],
+  "emotional_journey": "Loneliness -> Sadness -> Hope -> Discovery -> Contentment",
+  "created_date": "2026-09-06",
+  "file_locations": {
+    "manuscript": "/home/user/children_books/07_The_Quiet_Little_Drum/manuscript/story.txt",
+    "illustrations_dir": "/home/user/children_books/07_The_Quiet_Little_Drum/illustrations/",
+    "cover_dir": "/home/user/children_books/07_The_Quiet_Little_Drum/cover/",
+    "pdf_dir": "/home/user/children_books/07_The_Quiet_Little_Drum/pdf/"
+  }
+}

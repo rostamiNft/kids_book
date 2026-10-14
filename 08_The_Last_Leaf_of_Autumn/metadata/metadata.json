@@ -1,0 +1,62 @@
+{
+  "title": "The Last Leaf of Autumn",
+  "author": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "4-8 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A leaf learns that letting go can be beautiful.",
+  "long_description": "Rustle loves his branch high in the maple tree, but as autumn arrives, all the other leaves are changing color and falling to the ground. Rustle clings tightly, afraid of letting go. But as he watches the world below and listens to the wind's gentle wisdom, he begins to understand that falling isn't the end—it's the beginning of something new. When he finally lets go, he discovers the joy of dancing on the wind and joining the colorful carpet of leaves below. A poetic story about change, acceptance, and the beauty of new beginnings.",
+  "keywords": ["autumn", "leaf", "change", "acceptance", "nature", "seasons", "letting go", "children's book"],
+  "themes": ["Acceptance", "Change", "Letting go", "Beauty in transition", "New beginnings"],
+  "page_count": 28,
+  "visual_style": "Soft digital painting",
+  "color_palette": ["rich reds", "golden yellows", "deep oranges", "warm browns", "soft greens"],
+  "main_characters": [
+    {
+      "name": "Rustle",
+      "type": "Maple leaf",
+      "description": "A maple leaf with a slightly curled edge, bright red color, and a kind expression. He has a visible stem.",
+      "personality": "Afraid, curious, thoughtful, brave, joyful"
+    },
+    {
+      "name": "Amber",
+      "type": "Maple leaf",
+      "description": "A golden-yellow maple leaf with a cheerful personality.",
+      "personality": "Playful, encouraging, happy"
+    },
+    {
+      "name": "Golden",
+      "type": "Maple leaf",
+      "description": "A bright gold maple leaf with a warm personality.",
+      "personality": "Wise, gentle, kind"
+    },
+    {
+      "name": "Crimson",
+      "type": "Maple leaf",
+      "description": "A deep red maple leaf with a bold personality.",
+      "personality": "Confident, encouraging"
+    },
+    {
+      "name": "Blue Jay",
+      "type": "Bird",
+      "description": "A blue jay with bright blue feathers and a kind voice.",
+      "personality": "Observant, wise, encouraging"
+    },
+    {
+      "name": "Emma",
+      "type": "Human",
+      "age": "8 years old",
+      "description": "A girl with brown hair and a kind smile. She loves nature.",
+      "personality": "Kind, appreciative, observant"
+    }
+  ],
+  "settings": ["Maple tree", "Autumn forest", "Park"],
+  "emotional_journey": "Fear -> Curiosity -> Doubt -> Understanding -> Joy",
+  "created_date": "2026-09-06",
+  "file_locations": {
+    "manuscript": "/home/user/children_books/08_The_Last_Leaf_of_Autumn/manuscript/story.txt",
+    "illustrations_dir": "/home/user/children_books/08_The_Last_Leaf_of_Autumn/illustrations/",
+    "cover_dir": "/home/user/children_books/08_The_Last_Leaf_of_Autumn/cover/",
+    "pdf_dir": "/home/user/children_books/08_The_Last_Leaf_of_Autumn/pdf/"
+  }
+}

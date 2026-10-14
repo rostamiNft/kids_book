@@ -1,0 +1,43 @@
+{
+  "title": "Captain Whiskers and the Great Yarn Adventure",
+  "author": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "4-8 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A brave cat sails on a yarn boat to rescue a tangled ball of yarn.",
+  "long_description": "Captain Whiskers isn't an ordinary cat—he's a sailor who commands the S.S. Purr-fect, a boat made entirely of yarn. When he discovers that Grandma's special yarn ball is unraveling and leading somewhere mysterious, he sets off on an adventure. Following the yarn thread through the living room, under the couch, and up the chair leg, he reaches Grandma's knitting basket. But there, he finds a tangled ball of yarn in distress. With patience and care, Captain Whiskers untangles the yarn and helps it return to its rightful place. A charming story about adventure, patience, and helping others.",
+  "keywords": ["cat", "yarn", "adventure", "sailing", "patience", "helping others", "problem-solving", "imagination", "children's book"],
+  "themes": ["Adventure", "Patience", "Helping others", "Problem-solving", "Imagination"],
+  "page_count": 30,
+  "visual_style": "Whimsical ink and watercolor",
+  "color_palette": ["warm oranges", "soft blues", "creamy whites", "deep reds", "earthy browns"],
+  "main_characters": [
+    {
+      "name": "Captain Whiskers",
+      "type": "Cat",
+      "description": "An orange tabby cat with a blue captain's hat, a red bandana, and a brave expression. He has a fluffy tail and bright green eyes.",
+      "personality": "Brave, adventurous, patient, kind, determined"
+    },
+    {
+      "name": "Grandma",
+      "type": "Human",
+      "description": "An elderly woman with silver hair, round glasses, and a cozy sweater. She's always knitting.",
+      "personality": "Warm, kind, patient, wise"
+    },
+    {
+      "name": "Tangled Yarn",
+      "type": "Magical object",
+      "description": "A ball of yarn that has become tangled and distressed. It has a sad, knotted appearance.",
+      "personality": "Anxious, relieved, grateful"
+    }
+  ],
+  "settings": ["Grandma's living room", "Under the couch", "Kitchen", "Knitting basket"],
+  "emotional_journey": "Curiosity -> Adventure -> Discovery -> Compassion -> Satisfaction",
+  "created_date": "2026-09-06",
+  "file_locations": {
+    "manuscript": "/home/user/children_books/05_Captain_Whiskers_and_the_Great_Yarn_Adventure/manuscript/story.txt",
+    "illustrations_dir": "/home/user/children_books/05_Captain_Whiskers_and_the_Great_Yarn_Adventure/illustrations/",
+    "cover_dir": "/home/user/children_books/05_Captain_Whiskers_and_the_Great_Yarn_Adventure/cover/",
+    "pdf_dir": "/home/user/children_books/05_Captain_Whiskers_and_the_Great_Yarn_Adventure/pdf/"
+  }
+}
