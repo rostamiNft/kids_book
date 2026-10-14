@@ -1,0 +1,56 @@
+{
+  "title": "The Boy Who Painted Dreams",
+  "author": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "4-8 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A boy's paintings come to life at night.",
+  "long_description": "Leo loves to paint, and one night he discovers that his paintbrush has a magical quality—whatever he paints comes to life! He paints stars that twinkle, a moon that glows, and even a door that opens to a dream world. In this magical realm, he meets talking animals, rides flying turtles, and teaches a polka-dot giraffe to paint. But as the night wears on, Leo grows tired and must return to his room. He learns that while the dream world fades during the day, he can always return by painting, and the magic is always with him. A whimsical story about imagination, creativity, and the power of dreams.",
+  "keywords": ["painting", "dreams", "imagination", "magic", "art", "creativity", "adventure", "children's book"],
+  "themes": ["Imagination", "Creativity", "Magic of art", "Dreams", "Self-expression"],
+  "page_count": 30,
+  "visual_style": "Magical cinematic children's illustration",
+  "color_palette": ["deep blues", "twinkling golds", "soft purples", "vibrant greens", "magical pinks"],
+  "main_characters": [
+    {
+      "name": "Leo",
+      "type": "Human",
+      "age": "7 years old",
+      "description": "A boy with messy dark hair, paint-splattered clothes, and bright, curious eyes. He has a determined expression.",
+      "personality": "Creative, curious, adventurous, kind, imaginative"
+    },
+    {
+      "name": "Purple Elephant",
+      "type": "Dream creature",
+      "description": "A small, purple elephant with sparkly wings and a kind expression.",
+      "personality": "Wise, kind, magical, welcoming"
+    },
+    {
+      "name": "Polka-dot Giraffe",
+      "type": "Dream creature",
+      "description": "A green giraffe with colorful polka dots and a friendly smile.",
+      "personality": "Playful, curious, artistic"
+    },
+    {
+      "name": "Flying Turtle",
+      "type": "Dream creature",
+      "description": "A turtle with a smooth shell and wings that allow it to fly.",
+      "personality": "Gentle, patient, kind"
+    },
+    {
+      "name": "Leo's Mom",
+      "type": "Human",
+      "description": "A woman with kind eyes and a warm smile. She knocks on Leo's door in the morning.",
+      "personality": "Loving, patient, kind"
+    }
+  ],
+  "settings": ["Leo's bedroom", "Dream world", "Starry ceiling"],
+  "emotional_journey": "Creativity -> Wonder -> Adventure -> Contentment -> Secret joy",
+  "created_date": "2026-09-06",
+  "file_locations": {
+    "manuscript": "/home/user/children_books/09_The_Boy_Who_Painted_Dreams/manuscript/story.txt",
+    "illustrations_dir": "/home/user/children_books/09_The_Boy_Who_Painted_Dreams/illustrations/",
+    "cover_dir": "/home/user/children_books/09_The_Boy_Who_Painted_Dreams/cover/",
+    "pdf_dir": "/home/user/children_books/09_The_Boy_Who_Painted_Dreams/pdf/"
+  }
+}
