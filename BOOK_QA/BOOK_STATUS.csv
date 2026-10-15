@@ -3,7 +3,7 @@ book_id,title,manuscript_status,illustration_status,pdf_status,qa_status,commit_
 2,"Luna and the Moonlight Garden",PASS,PASS,PASS,PASSED,0ece4cb,"None - All issues resolved"
 3,"The Robot Who Wanted to Dance",PASS,PASS,PASS,PASSED,bbe8995,"None - All issues resolved"
 4,"The Day the Colors Ran Away",PASS,PASS,PASS,PASSED,19c83c2,"None - All issues resolved"
-5,"Captain Whiskers and the Great Yarn Adventure",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
+5,"Captain Whiskers and the Great Yarn Adventure",PASS,PASS,PASS,PASSED,PENDING,"None - All issues resolved"
 6,"The Tiny Giant",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
 7,"The Quiet Little Drum",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
 8,"The Last Leaf of Autumn",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
