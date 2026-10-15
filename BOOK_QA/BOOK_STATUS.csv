@@ -5,7 +5,7 @@ book_id,title,manuscript_status,illustration_status,pdf_status,qa_status,commit_
 4,"The Day the Colors Ran Away",PASS,PASS,PASS,PASSED,19c83c2,"None - All issues resolved"
 5,"Captain Whiskers and the Great Yarn Adventure",PASS,PASS,PASS,PASSED,3c2e3e8,"None - All issues resolved"
 6,"The Tiny Giant",PASS,PASS,PASS,PASSED,022ed73,"None - All issues resolved"
-7,"The Quiet Little Drum",PASS,PASS,PASS,PASSED,PENDING,"None - All issues resolved"
+7,"The Quiet Little Drum",PASS,PASS,PASS,PASSED,cd1b2cb,"None - All issues resolved"
 8,"The Last Leaf of Autumn",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
 9,"The Boy Who Painted Dreams",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
 10,"The Little Library of Lost Things",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
