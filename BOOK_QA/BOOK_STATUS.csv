@@ -1,0 +1,11 @@
+book_id,title,manuscript_status,illustration_status,pdf_status,qa_status,commit_sha,remaining_issues
+1,"The Little Cloud Who Wanted to Rain",PASS,PASS,PASS,PASSED,PENDING,"None - All issues resolved"
+2,"Luna and the Moonlight Garden",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
+3,"The Robot Who Wanted to Dance",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
+4,"The Day the Colors Ran Away",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
+5,"Captain Whiskers and the Great Yarn Adventure",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
+6,"The Tiny Giant",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
+7,"The Quiet Little Drum",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
+8,"The Last Leaf of Autumn",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
+9,"The Boy Who Painted Dreams",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
+10,"The Little Library of Lost Things",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
