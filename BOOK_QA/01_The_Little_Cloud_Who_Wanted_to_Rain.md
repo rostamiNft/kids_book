@@ -37,38 +37,40 @@
 - **Expected:** 28 pages
 - **Initial:** 17 pages
 - **Fixed:** Now has exactly 28 pages
-- **Action:** Regenerated PDF with correct page configuration
 
 ### Issue 2: PDF Had No Text Content ❌ → ✅ FIXED
 - **Expected:** Text on all story pages
 - **Initial:** No text on any page
 - **Fixed:** All pages now have correct text
-- **Action:** Added proper text overlay using reportlab
 
 ### Issue 3: Copyright Page Illustration Was Blank ❌ → ✅ FIXED
 - **Expected:** Proper copyright page illustration
 - **Initial:** page_04_copyright.png was 63KB (blank/placeholder)
 - **Fixed:** Regenerated proper 2MB illustration
-- **Action:** Verified and kept the proper illustration
 
 ### Issue 4: PDF Had Portrait Orientation ❌ → ✅ FIXED
 - **Expected:** Landscape orientation (all illustrations are landscape)
 - **Initial:** Portrait orientation (A4: 595x842)
 - **Fixed:** Landscape orientation (A4 Landscape: 842x595)
-- **Action:** Regenerated all PDFs with landscape(A4) pagesize
-- **Root Cause:** Previous PDF generation used default A4 (portrait) instead of landscape
 
-### Issue 5: Text Overflow ❌ → ✅ FIXED
+### Issue 5: Text Position on Title Page ❌ → ✅ FIXED
+- **Expected:** Text at BOTTOM of portrait title image
+- **Initial:** Text at TOP of page
+- **Fixed:** Text positioned at bottom of portrait image (page_02_03_title.png)
+- **Details:** Portrait images (aspect > 1) have text placed below the image
+
+### Issue 6: Text Overflow ❌ → ✅ FIXED
 - **Expected:** Text stays within page boundaries
-- **Initial:** Text may have overflowed
-- **Fixed:** Text properly positioned with overflow protection
-- **Action:** Added dynamic font sizing to prevent overflow
+- **Fixed:** Dynamic font sizing prevents overflow
 
-### Issue 6: Excessive White Space ❌ → ✅ FIXED
+### Issue 7: Excessive White Space ❌ → ✅ FIXED
 - **Expected:** Minimal white space, images fill most of page
-- **Initial:** May have had excessive margins
 - **Fixed:** Images scaled to fit with minimal margins (15 points)
-- **Action:** Adjusted image scaling to use available space efficiently
+
+### Issue 8: Missing Text on Page 28 ❌ → ✅ FIXED
+- **Expected:** Text on final page
+- **Initial:** No text on page 28
+- **Fixed:** Corrected text key from "28" to "28Finalpage"
 
 ---
 
@@ -79,8 +81,8 @@
    - All 28 pages properly configured
    - All text properly mapped from manuscript
    - Text overlaid on all story pages
-   - Title page has correct title and author
-   - Copyright page has correct text
+   - Title page text positioned at BOTTOM of portrait image
+   - Copyright page text positioned in MIDDLE
    - All illustrations included and properly scaled
    - No duplicate text on special pages
 
@@ -91,7 +93,8 @@
    - Visual style consistent throughout
 
 3. **Text Positioning**
-   - Text positioned at top of landscape pages
+   - Portrait images (aspect > 1): Text placed below image
+   - Landscape images (aspect < 1): Text placed at top of page
    - Dynamic font sizing prevents overflow
    - Proper line spacing (18 points)
    - Centered alignment
@@ -130,7 +133,7 @@
 
 ### Test 6: Text Accuracy ✅ PASS
 - Sample checks:
-  - Page 2: Title and author correct
+  - Page 2: Title and author correct (at bottom of image)
   - Page 4: Copyright text correct
   - Page 5: Story text matches manuscript
   - Page 28: Story text matches manuscript (Final page)
@@ -139,12 +142,11 @@
 - All images render in PDF
 - No stretched or distorted images
 - Proper scaling to fit pages
-- Landscape orientation maintained
+- Portrait images maintain aspect ratio
 
 ### Test 8: Orientation ✅ PASS
 - All pages are landscape (842x595)
-- Images fit properly in landscape format
-- No portrait pages in landscape book
+- Portrait illustrations (page_02_03_title.png, page_04_copyright.png) scaled to fit height
 
 ---
 
@@ -177,7 +179,8 @@ python3 -c "from PyPDF2 import PdfReader; pdf = PdfReader('pdf/The_Little_Cloud_
 
 ## Notes
 
-- All illustrations have landscape aspect ratios (avg: 0.65)
+- All illustrations have landscape aspect ratios (avg: 0.65) except portrait images
+- Portrait images: page_02_03_title.png (1.79), page_04_copyright.png (1.24), front_cover.png (1.34)
 - PDF now correctly uses landscape orientation
-- Text is properly positioned and does not overflow
+- Text is properly positioned: below portrait images, at top of landscape images
 - White space is minimized with 15-point margins
