@@ -1,5 +1,5 @@
 book_id,title,manuscript_status,illustration_status,pdf_status,qa_status,commit_sha,remaining_issues
-1,"The Little Cloud Who Wanted to Rain",PASS,PASS,PASS,PASSED,PENDING,"None - All issues resolved"
+1,"The Little Cloud Who Wanted to Rain",PASS,PASS,PASS,PASSED,79a19e2,"None - All issues resolved"
 2,"Luna and the Moonlight Garden",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
 3,"The Robot Who Wanted to Dance",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
 4,"The Day the Colors Ran Away",UNCHECKED,UNCHECKED,UNCHECKED,PENDING,N/A,"Not yet checked"
