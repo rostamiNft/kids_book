@@ -1,0 +1,58 @@
+{
+  "title": "The Little Star Who Lost Her Twinkle",
+  "author": "Hamidreza Rostami",
+  "creator_publisher": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "3-9 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A little star whose light is soft and steady discovers that kindness makes her light shine brighter than any twinkle in the sky.",
+  "long_description": "Twilla is a little star whose light is soft and steady. She longs to twinkle like all the other stars. When she helps a lost bat find his way home, Twilla discovers a wonderful secret: kindness makes your light shine brighter than any twinkle in the sky. A gentle bedtime story about friendship, kindness, and helping others.",
+  "moral_lesson": "Kindness and helping others make your own light shine the brightest.",
+  "page_count": 14,
+  "aspect_ratio": "16:9",
+  "orientation": "landscape",
+  "color_model": "RGB",
+  "resolution": "1376x768 pixels per page",
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation)",
+  "image_generation_model": "AI image-generation model (all pages AI-generated, including typography)",
+  "pdf_assembly_tool": "Python (Pillow, pypdf)",
+  "main_characters": [
+    {
+      "name": "Twilla",
+      "type": "Star",
+      "description": "A cute little golden-yellow star with a round friendly face, big expressive eyes, rosy cheeks, small smile, and a soft warm golden glow.",
+      "personality": "Gentle, kind, curious, determined"
+    },
+    {
+      "name": "Bat",
+      "type": "Bat",
+      "description": "A cute little bat with big ears who gets lost in the dark night.",
+      "personality": "Worried, grateful, friendly"
+    }
+  ],
+  "settings": ["Night sky", "Sleepy mountains", "Quiet forest", "Cozy cave", "Sleeping town"],
+  "themes": ["Kindness", "Helping others", "Friendship", "Self-confidence", "Courage"],
+  "emotional_journey": "Sadness -> Determination -> Kindness -> Joy -> Confidence",
+  "book_structure": {
+    "page_1": "Front Cover - title and creator credit embedded in artwork",
+    "pages_2_13": "Story pages - one complete illustrated page per PDF page, text embedded in artwork",
+    "page_14": "Back Cover - story blurb and creator credit embedded in artwork"
+  },
+  "file_locations": {
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "cover_dir": "cover/",
+    "pdf_dir": "pdf/"
+  },
+  "quality_assurance": {
+    "all_pages_landscape": true,
+    "consistent_dimensions": true,
+    "all_text_english": true,
+    "text_embedded_in_artwork": true,
+    "character_consistency": true,
+    "readable_on_smartphone": true,
+    "one_image_per_pdf_page": true,
+    "qa_status": "PASSED"
+  },
+  "created_date": "2026-11-02"
+}
