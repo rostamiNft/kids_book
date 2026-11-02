@@ -1,0 +1,64 @@
+{
+  "title": "The Little Seed Who Grew Brave",
+  "author": "Hamidreza Rostami",
+  "creator_publisher": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "3-9 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A tiny seed who is afraid to grow discovers that courage and patience help you grow into who you are meant to be.",
+  "long_description": "Sprout is a tiny seed who is afraid to grow. They long to be tall like all the other plants. When they help a ladybug feel safe, Sprout discovers a wonderful secret: courage and patience help you grow into who you are meant to be. A gentle bedtime story about bravery, kindness, and growing in your own way.",
+  "moral_lesson": "Courage and patience help you grow into who you are meant to be.",
+  "page_count": 20,
+  "aspect_ratio": "9:16",
+  "orientation": "portrait",
+  "color_model": "RGB",
+  "resolution": "768x1376 pixels per page",
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation)",
+  "image_generation_model": "AI image-generation model (all pages AI-generated, including typography)",
+  "pdf_assembly_tool": "Python (Pillow) — used exclusively to assemble the 20 AI-generated page images into one PDF",
+  "main_characters": [
+    {
+      "name": "Sprout",
+      "type": "Seed",
+      "description": "A cute tiny seed with a soft brown shell, big friendly expressive eyes peeking out, a small shy smile, wearing a little leaf hat.",
+      "personality": "Gentle, kind, curious, shy at first but becomes brave"
+    },
+    {
+      "name": "Sunny",
+      "type": "Sun",
+      "description": "A warm bright sun with a kind smiling face, encouraging and wise.",
+      "personality": "Kind, wise, supportive"
+    },
+    {
+      "name": "Ladybug",
+      "type": "Ladybug",
+      "description": "A cute little ladybug with red wings who needs a safe place to rest.",
+      "personality": "Peaceful, grateful, happy"
+    }
+  ],
+  "settings": ["Sunny garden", "Soft soil", "Grassy meadow", "Soft green hills"],
+  "themes": ["Courage", "Patience", "Self-acceptance", "Kindness", "Helping others", "Growing in your own way"],
+  "emotional_journey": "Fear -> Shyness -> Hope -> Kindness -> Joy -> Confidence",
+  "book_structure": {
+    "page_1": "Front Cover - title and creator credit embedded in artwork",
+    "pages_2_19": "Story pages - one complete illustrated page per PDF page, text embedded in artwork",
+    "page_20": "Back Cover - story blurb and creator credit embedded in artwork"
+  },
+  "file_locations": {
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "cover_dir": "cover/",
+    "pdf_dir": "pdf/"
+  },
+  "quality_assurance": {
+    "all_pages_portrait": true,
+    "consistent_dimensions": true,
+    "all_text_english": true,
+    "text_embedded_in_artwork": true,
+    "character_consistency": true,
+    "readable_on_smartphone": true,
+    "one_image_per_pdf_page": true,
+    "qa_status": "PASSED"
+  },
+  "created_date": "2026-11-02"
+}
