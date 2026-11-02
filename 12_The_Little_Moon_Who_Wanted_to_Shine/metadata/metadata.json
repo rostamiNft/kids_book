@@ -1,0 +1,70 @@
+{
+  "title": "The Little Moon Who Wanted to Shine",
+  "author": "Hamidreza Rostami",
+  "creator_publisher": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "3-9 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A little moon whose light is soft and gentle discovers that you are special just as you are, and your gentle light matters to the world.",
+  "long_description": "Luna is a little moon whose light is soft and gentle. She longs to shine bright like all the stars. When she helps a child sleep peacefully, Luna discovers a wonderful secret: you are special just as you are, and your gentle light matters to the world. A gentle bedtime story about self-acceptance, kindness, and shining in your own way.",
+  "moral_lesson": "You are special just as you are — your gentle light matters to the world.",
+  "page_count": 20,
+  "aspect_ratio": "16:9",
+  "orientation": "landscape",
+  "color_model": "RGB",
+  "resolution": "1376x768 pixels per page",
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation)",
+  "image_generation_model": "AI image-generation model (all pages AI-generated, including typography)",
+  "pdf_assembly_tool": "Python (Pillow) — used exclusively to assemble the 20 AI-generated page images into one PDF",
+  "main_characters": [
+    {
+      "name": "Luna",
+      "type": "Moon",
+      "description": "A cute little crescent moon with a soft silver-white glow, friendly expressive big eyes, rosy cheeks, and a small smile.",
+      "personality": "Gentle, kind, curious, determined"
+    },
+    {
+      "name": "Sun",
+      "type": "Sun",
+      "description": "A warm, bright, kind and encouraging sun.",
+      "personality": "Kind, wise, supportive"
+    },
+    {
+      "name": "Stars",
+      "type": "Stars",
+      "description": "Twinkling golden stars in the night sky.",
+      "personality": "Cheerful, bright, friendly"
+    },
+    {
+      "name": "Child",
+      "type": "Child",
+      "description": "A cute little child who cannot sleep and needs Luna's gentle light.",
+      "personality": "Peaceful, grateful, happy"
+    }
+  ],
+  "settings": ["Night sky", "Sleeping town", "Cozy bedroom", "Hills and trees"],
+  "themes": ["Self-acceptance", "Kindness", "Helping others", "Confidence", "Being yourself"],
+  "emotional_journey": "Sadness -> Curiosity -> Kindness -> Joy -> Confidence -> Peace",
+  "book_structure": {
+    "page_1": "Front Cover - title and creator credit embedded in artwork",
+    "pages_2_19": "Story pages - one complete illustrated page per PDF page, text embedded in artwork",
+    "page_20": "Back Cover - story blurb and creator credit embedded in artwork"
+  },
+  "file_locations": {
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "cover_dir": "cover/",
+    "pdf_dir": "pdf/"
+  },
+  "quality_assurance": {
+    "all_pages_landscape": true,
+    "consistent_dimensions": true,
+    "all_text_english": true,
+    "text_embedded_in_artwork": true,
+    "character_consistency": true,
+    "readable_on_smartphone": true,
+    "one_image_per_pdf_page": true,
+    "qa_status": "PASSED"
+  },
+  "created_date": "2026-11-02"
+}
