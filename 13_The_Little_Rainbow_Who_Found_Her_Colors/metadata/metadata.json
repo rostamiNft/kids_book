@@ -1,0 +1,64 @@
+{
+  "title": "The Little Rainbow Who Found Her Colors",
+  "author": "Hamidreza Rostami",
+  "creator_publisher": "Hamidreza Rostami",
+  "language": "English",
+  "target_age": "3-9 years",
+  "genre": "Children's Picture Book",
+  "short_description": "A little rainbow whose colors are soft and gentle discovers that you are special just as you are, and your gentle light matters to the world.",
+  "long_description": "Iris is a little rainbow whose colors are soft and gentle. She longs to be bright like all the others. When she helps a little girl feel calm, Iris discovers a wonderful secret: you are special just as you are, and your gentle light matters to the world. A gentle bedtime story about self-acceptance, kindness, and shining in your own way.",
+  "moral_lesson": "You are special and beautiful exactly as you are — you don't need to be like everyone else.",
+  "page_count": 15,
+  "aspect_ratio": "9:16",
+  "orientation": "portrait",
+  "color_model": "RGB",
+  "resolution": "768x1376 pixels per page",
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation)",
+  "image_generation_model": "AI image-generation model (all pages AI-generated, including typography)",
+  "pdf_assembly_tool": "Python (Pillow) — used exclusively to assemble the 15 AI-generated page images into one PDF",
+  "main_characters": [
+    {
+      "name": "Iris",
+      "type": "Rainbow",
+      "description": "A cute little rainbow with soft pastel colors, big friendly eyes, rosy cheeks, and a small smile.",
+      "personality": "Gentle, kind, curious, shy at first"
+    },
+    {
+      "name": "Cloud",
+      "type": "Cloud",
+      "description": "A fluffy white cloud friend who is kind and encouraging.",
+      "personality": "Kind, wise, supportive"
+    },
+    {
+      "name": "Girl",
+      "type": "Child",
+      "description": "A cute little girl who needs something calm and gentle.",
+      "personality": "Peaceful, grateful, happy"
+    }
+  ],
+  "settings": ["Soft pastel sky", "Sleepy hills", "Grassy meadow", "Sleeping town"],
+  "themes": ["Self-acceptance", "Kindness", "Helping others", "Being yourself", "Calmness"],
+  "emotional_journey": "Shyness -> Sadness -> Hope -> Kindness -> Joy -> Confidence",
+  "book_structure": {
+    "page_1": "Front Cover - title and creator credit embedded in artwork",
+    "pages_2_14": "Story pages - one complete illustrated page per PDF page, text embedded in artwork",
+    "page_15": "Back Cover - story blurb and creator credit embedded in artwork"
+  },
+  "file_locations": {
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "cover_dir": "cover/",
+    "pdf_dir": "pdf/"
+  },
+  "quality_assurance": {
+    "all_pages_portrait": true,
+    "consistent_dimensions": true,
+    "all_text_english": true,
+    "text_embedded_in_artwork": true,
+    "character_consistency": true,
+    "readable_on_smartphone": true,
+    "one_image_per_pdf_page": true,
+    "qa_status": "PASSED"
+  },
+  "created_date": "2026-11-02"
+}
