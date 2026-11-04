@@ -1,0 +1,78 @@
+{
+  "book_number": 7,
+  "title": "The Quiet Little Drum",
+  "author": "Hamidreza Rostami",
+  "creator_credit": "Created by Hamidreza Rostami",
+  "language": "English",
+  "target_age": "3-9 years",
+  "genre": "Children's Picture Book",
+  "moral_lesson": "You do not have to be loud to matter. Sometimes the most important sounds are the ones you have to listen very carefully to hear.",
+  "short_description": "A little drum in a music shop who cannot make a sound finds a way to help a lost kitten in the night.",
+  "long_description": "In the great orchestra of Mr. Harmony's music shop, every instrument had a voice. The trumpet blasted, the violin sang, the piano tinkled, the cymbals crashed. And then there was Drum, who loved music and rhythm and the way the other instruments made the air dance, but who could not make a single sound. Told he might be broken, Drum rolls into a dusty corner to hide. Then a little girl named Lily lifts him up, calls him beautiful, and takes him home. When a lost kitten cries outside her window in the middle of the night, Drum finds the one quiet way he can help: tapping on the glass. In the end Lily teaches him the truth about himself, and Drum discovers the softest sound of all, his own.",
+  "keywords": ["drum", "music", "quiet", "kindness", "listening", "kitten", "self-worth", "patience", "music shop", "children's book"],
+  "themes": ["Self-worth", "Kindness", "Patience", "Being heard", "Listening carefully"],
+  "page_count": 20,
+  "page_structure": {
+    "1": "front cover",
+    "2-19": "story pages",
+    "20": "back cover"
+  },
+  "format": {
+    "orientation": "portrait",
+    "aspect_ratio": "9:16",
+    "pixel_dimensions": "768x1376",
+    "color_model": "RGB",
+    "images_per_pdf_page": 1,
+    "double_page_spreads": false
+  },
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation), warm painterly rendering with golden dust motes in sunbeams, glossy toy-like surfaces, cozy and inviting",
+  "art_direction": {
+    "character_lock": "Drum must be exactly the same character on every page: a small round honey-brown polished wooden drum with a cream leather top, brass tacks, two gentle dark eyes and a small mouth painted onto the wood, and two tiny honey-brown wooden feet. His arms and feet are never black.",
+    "lily_lock": "Lily must be identical on every page: about six years old, soft wavy brown hair to the shoulders, big hazel eyes, light freckles, pale-yellow dress with a cream collar, white socks and small brown shoes; a pale cream nightdress in the night scenes.",
+    "punctuation_rule": "Dialogue uses double quotation marks throughout. Narrative prose carries no quotation marks. Contractions are avoided so no stray apostrophes appear.",
+    "paragraph_rule": "On the back cover the blurb is set in three clearly separated paragraphs with a visible blank gap between them, in normal mixed case."
+  },
+  "color_palette": ["honey brown", "warm cream", "brass gold", "deep plum-brown", "moonlight blue", "patchwork pastels"],
+  "main_characters": [
+    {
+      "name": "Drum",
+      "type": "Living drum",
+      "description": "A small round drum with a smooth honey-brown polished wooden body, a soft cream leather top with small brass tacks, two gentle dark expressive eyes and a small mouth painted onto the wood, and two tiny wooden feet.",
+      "personality": "Gentle, hopeful, brave in a quiet way, easily discouraged but loving"
+    },
+    {
+      "name": "Lily",
+      "type": "Child",
+      "description": "A little girl about six years old with soft wavy brown hair, big curious hazel eyes, light freckles, and a pale-yellow dress with a cream collar.",
+      "personality": "Kind, curious, attentive, a wonderful listener"
+    },
+    {
+      "name": "Mr. Harmony",
+      "type": "Shopkeeper",
+      "description": "An elderly shopkeeper with round brass glasses, a fluffy grey moustache and a burgundy apron.",
+      "personality": "Kind, honest, a little matter-of-fact"
+    },
+    {
+      "name": "The kitten",
+      "type": "Kitten",
+      "description": "A tiny grey tabby kitten with white paws, a white chest and big green eyes.",
+      "personality": "Lost, frightened, then trusting"
+    },
+    {
+      "name": "Violin, Trumpet and Piano",
+      "type": "Instruments",
+      "description": "An elegant amber violin, a shiny brass trumpet and a warm brown upright piano, all alive with faces.",
+      "personality": "Loud, confident and well-meaning"
+    }
+  ],
+  "settings": ["Mr. Harmony's music shop", "The dim dusty shop corner", "Lily's bedroom at night", "The moonlit window"],
+  "emotional_journey": "Belonging -> Secret shame -> Rejection -> Being seen -> Kindness -> Quiet courage -> Self-acceptance",
+  "text_rendering": "All story text, title, blurb, and credit are embedded directly inside the AI-generated artwork images. No code-rendered typography.",
+  "pdf_assembly": "Python (Pillow) used only to combine finished AI page images into one PDF.",
+  "rebuild_date": "2026-11-04",
+  "file_locations": {
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "pdf": "pdf/The_Quiet_Little_Drum.pdf"
+  }
+}
