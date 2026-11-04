@@ -1,43 +1,60 @@
 {
+  "book_number": 3,
   "title": "The Robot Who Wanted to Dance",
   "author": "Hamidreza Rostami",
+  "creator_credit": "Created by Hamidreza Rostami",
   "language": "English",
-  "target_age": "4-8 years",
+  "target_age": "3-9 years",
   "genre": "Children's Picture Book",
-  "short_description": "A practical robot discovers the joy of self-expression through dance.",
-  "long_description": "Bolt is the best sorting robot in the factory—reliable, precise, and perfect. But when he hears music for the first time, something inside him changes. He wants to dance! But his stiff, practical body isn't made for dancing. With the help of his friend Spark, Bolt learns that being perfect isn't as important as being happy. And sometimes, the best way to sort things out is to let loose and dance. A heartwarming story about self-expression, joy, and breaking free from expectations.",
-  "keywords": ["robot", "dance", "self-expression", "joy", "factory", "music", "friendship", "creativity", "children's book"],
-  "themes": ["Self-expression", "Joy", "Breaking expectations", "Friendship", "Creativity"],
-  "page_count": 28,
-  "visual_style": "Playful geometric illustration",
-  "color_palette": ["metallic silvers", "bright blues", "warm reds", "sunny yellows", "deep purples"],
+  "moral_lesson": "You do not have to be perfect to feel joy — just brave enough to try.",
+  "short_description": "The best sorting robot in the factory discovers music, and something inside him wants to move.",
+  "long_description": "Bolt is the best sorting robot in the whole factory. He never misses and he never drops a single gear. But one day he hears music drifting from the break room, and something inside him wants to move. Spark tells him he can be a sorting robot AND a dancer. At first his systems flash a warning: ERROR. NOT PROGRAMMED FOR THIS FUNCTION. But when no one is looking, Bolt tries one small step. Then another. And he discovers the very best thing of all to sort: joy.",
+  "keywords": ["robot", "dancing", "music", "joy", "trying new things", "courage", "factory", "friendship", "self-expression", "children's book"],
+  "themes": ["Courage", "Trying new things", "Joy", "Self-expression", "Friendship"],
+  "page_count": 20,
+  "page_structure": {
+    "1": "front cover",
+    "2-19": "story pages",
+    "20": "back cover"
+  },
+  "format": {
+    "orientation": "portrait",
+    "aspect_ratio": "9:16",
+    "pixel_dimensions": "768x1376",
+    "color_model": "RGB",
+    "images_per_pdf_page": 1,
+    "double_page_spreads": false
+  },
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation), bright friendly robot-factory palette of teal, orange and cream with glowing accents, glossy toy-like rendering, warm volumetric light",
+  "color_palette": ["silver", "teal", "warm orange", "cream", "golden yellow", "glowing blue"],
   "main_characters": [
     {
       "name": "Bolt",
       "type": "Robot",
-      "description": "A boxy silver robot with a round head, glowing blue eyes, and stiff, practical limbs. He has a display screen on his chest.",
-      "personality": "Practical, reliable, determined, learns to be joyful"
+      "description": "A cute boxy silver robot with a rounded head, a large dark glass face screen showing glowing blue oval eyes and simple light-made expressions, a small antenna with a glowing tip, an orange accent stripe and 'B' badge on his chest, chunky stubby arms with clamp hands, and short sturdy legs.",
+      "personality": "Earnest, careful, reliable, eager to please, secretly longing to dance"
     },
     {
       "name": "Spark",
       "type": "Robot",
-      "description": "A small, round maintenance robot with a tool belt, cheerful face, and glowing eyes.",
-      "personality": "Cheerful, encouraging, playful, supportive"
+      "description": "A small round sunny-yellow and cream maintenance robot with one big friendly single eye, a little leather tool belt, and short springy arms.",
+      "personality": "Cheerful, bouncy, encouraging, playful"
     },
     {
       "name": "Foreman Clank",
       "type": "Robot",
-      "description": "A large, broad robot with a clipboard and a deep, authoritative voice.",
-      "personality": "Authoritative but kind, practical, supportive"
+      "description": "A big broad friendly foreman robot in deep orange and dark gray with a wide chest panel, thick arms, and a small yellow hard hat.",
+      "personality": "Proud, warm, encouraging"
     }
   ],
-  "settings": ["Robot Factory", "Factory floor", "Break area"],
+  "settings": ["The great Robot Factory", "Sorting station", "Break room", "Factory corridor at night"],
   "emotional_journey": "Contentment -> Curiosity -> Doubt -> Courage -> Joy",
-  "created_date": "2026-09-06",
+  "text_rendering": "All story text, title, blurb, and credit are embedded directly inside the AI-generated artwork images. No code-rendered typography.",
+  "pdf_assembly": "Python (Pillow) used only to combine finished AI page images into one PDF.",
+  "rebuild_date": "2026-11-04",
   "file_locations": {
-    "manuscript": "/home/user/children_books/03_The_Robot_Who_Wanted_to_Dance/manuscript/story.txt",
-    "illustrations_dir": "/home/user/children_books/03_The_Robot_Who_Wanted_to_Dance/illustrations/",
-    "cover_dir": "/home/user/children_books/03_The_Robot_Who_Wanted_to_Dance/cover/",
-    "pdf_dir": "/home/user/children_books/03_The_Robot_Who_Wanted_to_Dance/pdf/"
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "pdf": "pdf/The_Robot_Who_Wanted_to_Dance.pdf"
   }
 }
