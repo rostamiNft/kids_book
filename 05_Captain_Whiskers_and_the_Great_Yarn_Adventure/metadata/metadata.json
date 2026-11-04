@@ -1,43 +1,60 @@
 {
+  "book_number": 5,
   "title": "Captain Whiskers and the Great Yarn Adventure",
   "author": "Hamidreza Rostami",
+  "creator_credit": "Created by Hamidreza Rostami",
   "language": "English",
-  "target_age": "4-8 years",
+  "target_age": "3-9 years",
   "genre": "Children's Picture Book",
-  "short_description": "A brave cat sails on a yarn boat to rescue a tangled ball of yarn.",
-  "long_description": "Captain Whiskers isn't an ordinary cat—he's a sailor who commands the S.S. Purr-fect, a boat made entirely of yarn. When he discovers that Grandma's special yarn ball is unraveling and leading somewhere mysterious, he sets off on an adventure. Following the yarn thread through the living room, under the couch, and up the chair leg, he reaches Grandma's knitting basket. But there, he finds a tangled ball of yarn in distress. With patience and care, Captain Whiskers untangles the yarn and helps it return to its rightful place. A charming story about adventure, patience, and helping others.",
-  "keywords": ["cat", "yarn", "adventure", "sailing", "patience", "helping others", "problem-solving", "imagination", "children's book"],
-  "themes": ["Adventure", "Patience", "Helping others", "Problem-solving", "Imagination"],
-  "page_count": 30,
-  "visual_style": "Whimsical ink and watercolor",
-  "color_palette": ["warm oranges", "soft blues", "creamy whites", "deep reds", "earthy browns"],
+  "moral_lesson": "Sometimes being part of something bigger is even better than being free.",
+  "short_description": "A brave cat captain sails a boat made of yarn and follows a loose thread on his greatest adventure.",
+  "long_description": "Captain Whiskers is not an ordinary cat. While other cats nap in sunbeams, he sails the high seas of Grandma's living room in the S.S. Purr-fect, a boat made entirely of yarn. But one day his anchor, a giant ball of yarn, begins to unravel, and the loose thread leads him across the floor, under the couch, up a chair leg and into a treasure chest of yarn. There he finds a small, sad, tangled ball of yarn that needs help. A warm story about curiosity, kindness, and discovering that being part of something bigger can be the best thing of all.",
+  "keywords": ["cat", "yarn", "adventure", "knitting", "kindness", "courage", "grandma", "curiosity", "helping", "children's book"],
+  "themes": ["Kindness", "Courage", "Curiosity", "Helping others", "Belonging"],
+  "page_count": 20,
+  "page_structure": {
+    "1": "front cover",
+    "2-19": "story pages",
+    "20": "back cover"
+  },
+  "format": {
+    "orientation": "portrait",
+    "aspect_ratio": "9:16",
+    "pixel_dimensions": "768x1376",
+    "color_model": "RGB",
+    "images_per_pdf_page": 1,
+    "double_page_spreads": false
+  },
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation), warm cozy homemade world with soft yarn textures and glowing afternoon light, glossy toy-like rendering",
+  "color_palette": ["warm honey gold", "knitted blue", "knitted red", "cozy green", "teal-green yarn", "floral cream"],
   "main_characters": [
     {
       "name": "Captain Whiskers",
       "type": "Cat",
-      "description": "An orange tabby cat with a blue captain's hat, a red bandana, and a brave expression. He has a fluffy tail and bright green eyes.",
-      "personality": "Brave, adventurous, patient, kind, determined"
+      "description": "A plump brave orange tabby cat with darker orange stripes, a white chest and muzzle, big green-gold eyes, a small pink nose, long white whiskers, a small navy-blue captain's hat with a gold anchor badge, and a red bandana knotted at his neck.",
+      "personality": "Proud, curious, kind, brave, very sure of himself"
+    },
+    {
+      "name": "The Yarn",
+      "type": "Yarn",
+      "description": "A small tangled ball of soft teal-green yarn with two tiny dot eyes and a little mouth formed in the strands. Sad and worried at first, then happy and smooth.",
+      "personality": "Scared, honest, hopeful"
     },
     {
       "name": "Grandma",
-      "type": "Human",
-      "description": "An elderly woman with silver hair, round glasses, and a cozy sweater. She's always knitting.",
-      "personality": "Warm, kind, patient, wise"
-    },
-    {
-      "name": "Tangled Yarn",
-      "type": "Magical object",
-      "description": "A ball of yarn that has become tangled and distressed. It has a sad, knotted appearance.",
-      "personality": "Anxious, relieved, grateful"
+      "type": "Person",
+      "description": "A warm grandmother with silver hair in a bun, glasses and a floral apron, knitting in her chair.",
+      "personality": "Kind, gentle"
     }
   ],
-  "settings": ["Grandma's living room", "Under the couch", "Kitchen", "Knitting basket"],
-  "emotional_journey": "Curiosity -> Adventure -> Discovery -> Compassion -> Satisfaction",
-  "created_date": "2026-09-06",
+  "settings": ["Grandma's living room", "The blue yarn rug 'sea'", "Under the couch", "The forest of table legs", "The kitchen table", "The knitting basket"],
+  "emotional_journey": "Pride -> Curiosity -> Adventure -> Compassion -> Satisfaction",
+  "text_rendering": "All story text, title, blurb, and credit are embedded directly inside the AI-generated artwork images. No code-rendered typography.",
+  "pdf_assembly": "Python (Pillow) used only to combine finished AI page images into one PDF.",
+  "rebuild_date": "2026-11-04",
   "file_locations": {
-    "manuscript": "/home/user/children_books/05_Captain_Whiskers_and_the_Great_Yarn_Adventure/manuscript/story.txt",
-    "illustrations_dir": "/home/user/children_books/05_Captain_Whiskers_and_the_Great_Yarn_Adventure/illustrations/",
-    "cover_dir": "/home/user/children_books/05_Captain_Whiskers_and_the_Great_Yarn_Adventure/cover/",
-    "pdf_dir": "/home/user/children_books/05_Captain_Whiskers_and_the_Great_Yarn_Adventure/pdf/"
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "pdf": "pdf/Captain_Whiskers_and_the_Great_Yarn_Adventure.pdf"
   }
 }
