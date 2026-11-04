@@ -1,0 +1,77 @@
+{
+  "book_number": 6,
+  "title": "The Tiny Giant",
+  "author": "Hamidreza Rostami",
+  "creator_credit": "Created by Hamidreza Rostami",
+  "language": "English",
+  "target_age": "3-9 years",
+  "genre": "Children's Picture Book",
+  "moral_lesson": "Being big is not about size. It is about the heart, and what you do with it.",
+  "short_description": "The smallest creature in the forest is sure he is a giant, and one stormy day he gets the chance to prove it.",
+  "long_description": "Pip is the smallest creature in the whole forest. He can hide behind a single blade of grass, and a raindrop could give him a bath. So of course he tells everyone he is a giant. When a great wind knocks down nests and homes, tiny Pip sets out to do something truly enormous: he digs a new home for a family of mice, repairs a fallen bird's nest high in the great tree, and gathers every small creature in the forest to clear the fox's play area together. In the end the oldest squirrel tells him the truth he always knew: being big is not about size, it is about the heart.",
+  "keywords": ["small", "giant", "courage", "kindness", "forest", "teamwork", "storm", "self-belief", "helping", "children's book"],
+  "themes": ["Self-belief", "Kindness", "Courage", "Teamwork", "Helping others"],
+  "page_count": 20,
+  "page_structure": {
+    "1": "front cover",
+    "2-19": "story pages",
+    "20": "back cover"
+  },
+  "format": {
+    "orientation": "portrait",
+    "aspect_ratio": "9:16",
+    "pixel_dimensions": "768x1376",
+    "color_model": "RGB",
+    "images_per_pdf_page": 1,
+    "double_page_spreads": false
+  },
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation), lush miniature forest world seen from a tiny creature's scale, warm dappled sunlight, glowing bokeh, glossy toy-like rendering",
+  "art_direction": {
+    "scale_rule": "Everything in the forest is drawn at an enormous scale relative to Pip: a blade of grass taller than he is, a pebble like a hill, a mushroom like a stage, a dewdrop as big as his head.",
+    "character_lock": "Pip must be exactly the same character on every page: a very small round creature with soft mint-green fur, a cream belly, huge round ears like a fennec fox, big bright amber eyes, a small black nose, tiny paws and feet, a tuft of fluff on top of his head.",
+    "single_instance_rule": "Pip appears exactly once per page. Two pages were regenerated because a duplicate Pip appeared in the frame."
+  },
+  "color_palette": ["mint green", "cream", "warm honey gold", "deep forest green", "moss", "soft sky blue"],
+  "main_characters": [
+    {
+      "name": "Pip",
+      "type": "Tiny forest creature",
+      "description": "A very small round creature with soft mint-green fur, a cream belly, huge round ears like a fennec fox, big bright amber eyes, a small black nose, tiny paws and feet, and a tuft of fluff on top of his head.",
+      "personality": "Cheerful, proud, determined, convinced he is a giant"
+    },
+    {
+      "name": "The oldest squirrel",
+      "type": "Squirrel",
+      "description": "A plump red-brown squirrel with a big fluffy tail, bright clever eyes and a wise kind face.",
+      "personality": "Warm, wise, honest"
+    },
+    {
+      "name": "The fox cub",
+      "type": "Fox",
+      "description": "A young orange fox cub with a white chest, big ears and hopeful eyes.",
+      "personality": "Playful, honest, grateful"
+    },
+    {
+      "name": "The mice family",
+      "type": "Mice",
+      "description": "Three tiny grey mice with pink ears.",
+      "personality": "Grateful, cheerful"
+    },
+    {
+      "name": "The birds",
+      "type": "Songbirds",
+      "description": "Two small round blue-and-grey songbirds.",
+      "personality": "Worried, then happy"
+    }
+  ],
+  "settings": ["The miniature forest floor", "The great tree and its root hollow", "The high canopy", "The cleared play area"],
+  "emotional_journey": "Proud self-belief -> Teasing -> Storm and worry -> Inspiration -> Determined work -> Compassion -> Teamwork -> Warm vindication",
+  "text_rendering": "All story text, title, blurb, and credit are embedded directly inside the AI-generated artwork images. No code-rendered typography.",
+  "pdf_assembly": "Python (Pillow) used only to combine finished AI page images into one PDF.",
+  "rebuild_date": "2026-11-04",
+  "file_locations": {
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "pdf": "pdf/The_Tiny_Giant.pdf"
+  }
+}
