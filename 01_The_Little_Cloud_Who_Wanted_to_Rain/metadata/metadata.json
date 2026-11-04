@@ -1,49 +1,66 @@
 {
+  "book_number": 1,
   "title": "The Little Cloud Who Wanted to Rain",
   "author": "Hamidreza Rostami",
+  "creator_credit": "Created by Hamidreza Rostami",
   "language": "English",
-  "target_age": "4-8 years",
+  "target_age": "3-9 years",
   "genre": "Children's Picture Book",
+  "moral_lesson": "Letting go takes courage — and it can turn you into something beautiful.",
   "short_description": "A timid little cloud learns that letting go can be the bravest thing of all.",
-  "long_description": "Nimbus is a small cloud who loves floating in the sky, but he's terrified of raining. While all the other clouds joyfully water the world below, Nimbus holds himself together tightly, afraid he'll disappear if he lets go. But when he sees a thirsty garden and a sad little sparrow, he must find the courage to help. Through this gentle adventure, Nimbus discovers that letting go doesn't mean disappearing—it means becoming part of something beautiful. A heartwarming story about courage, self-confidence, and the joy of giving.",
+  "long_description": "Nimbus is a small cloud who loves floating in the sky, but he is terrified of raining. While all the other clouds joyfully water the world below, Nimbus holds himself together tightly, afraid he will disappear. But when he sees a thirsty garden and a sad little sparrow, he must find the courage to help. Through this gentle adventure, Nimbus discovers that letting go does not mean disappearing — it means becoming part of something beautiful. A heartwarming story about courage, self-confidence, and the joy of giving.",
   "keywords": ["cloud", "rain", "courage", "self-confidence", "kindness", "nature", "weather", "fear", "bravery", "children's book"],
-  "themes": ["Courage", "Self-confidence", "Helping others", "Overcoming fear", "Nature's cycles"],
-  "page_count": 28,
-  "visual_style": "Soft watercolor storybook",
-  "color_palette": ["soft blues", "whites", "silver grays", "pastel greens", "warm yellows"],
+  "themes": ["Courage", "Self-confidence", "Helping others", "Overcoming fear", "Kindness"],
+  "page_count": 20,
+  "page_structure": {
+    "1": "front cover",
+    "2-19": "story pages",
+    "20": "back cover"
+  },
+  "format": {
+    "orientation": "portrait",
+    "aspect_ratio": "9:16",
+    "pixel_dimensions": "768x1376",
+    "color_model": "RGB",
+    "images_per_pdf_page": 1,
+    "double_page_spreads": false
+  },
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation), soft pastel palette, dreamy volumetric light, glossy toy-like rendering",
+  "color_palette": ["soft blues", "whites", "silver grays", "pastel greens", "warm yellows", "rainbow accents"],
   "main_characters": [
     {
       "name": "Nimbus",
       "type": "Cloud",
-      "description": "A small, round, fluffy white cloud with a nervous but kind expression. Has a slightly silvery glow.",
-      "personality": "Timid, thoughtful, caring, brave when needed"
+      "description": "A small, round, fluffy white cloud with big friendly dark eyes, rosy cheeks, a tiny shy smile, stubby soft arms and a silvery pearl-like glow along his edges.",
+      "personality": "Timid, thoughtful, caring, brave when it matters"
     },
     {
       "name": "Cumulus",
       "type": "Cloud",
-      "description": "A large, fluffy white cloud who is wise and encouraging.",
+      "description": "A big jolly fluffy white cloud with a warm laughing face and broad soft arms.",
       "personality": "Jolly, wise, supportive"
     },
     {
       "name": "Stratus",
       "type": "Cloud",
-      "description": "A long, horizontal gray cloud who stretches across the sky.",
+      "description": "A long horizontal gray cloud shaped like a cozy blanket with kind sleepy eyes.",
       "personality": "Calm, patient, philosophical"
     },
     {
       "name": "Sparrow",
       "type": "Bird",
-      "description": "A small brown sparrow with a bandaged wing.",
+      "description": "A small brown sparrow with a white bandage on one wing and bright hopeful eyes.",
       "personality": "Gentle, hopeful"
     }
   ],
-  "settings": ["Sky", "Garden", "Cloud kingdom"],
+  "settings": ["Sky", "Garden", "Green hills and village"],
   "emotional_journey": "Fear -> Doubt -> Compassion -> Courage -> Joy",
-  "created_date": "2026-09-06",
+  "text_rendering": "All story text, title, blurb, and credit are embedded directly inside the AI-generated artwork images. No code-rendered typography.",
+  "pdf_assembly": "Python (Pillow) used only to combine finished AI page images into one PDF.",
+  "rebuild_date": "2026-11-04",
   "file_locations": {
-    "manuscript": "/home/user/children_books/01_The_Little_Cloud_Who_Wanted_to_Rain/manuscript/story.txt",
-    "illustrations_dir": "/home/user/children_books/01_The_Little_Cloud_Who_Wanted_to_Rain/illustrations/",
-    "cover_dir": "/home/user/children_books/01_The_Little_Cloud_Who_Wanted_to_Rain/cover/",
-    "pdf_dir": "/home/user/children_books/01_The_Little_Cloud_Who_Wanted_to_Rain/pdf/"
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "pdf": "pdf/The_Little_Cloud_Who_Wanted_to_Rain.pdf"
   }
 }
