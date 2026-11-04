@@ -1,162 +1,102 @@
 THE TINY GIANT
 by Hamidreza Rostami
 
-===
-PAGE 1 (Cover):
-[Illustration: Pip, a very small, round creature with big ears and a tiny body, standing tall on a mushroom, looking proud. Behind him, a forest of giant flowers and towering grass. The title appears in text that looks small from far away but is actually large.]
+Target audience: Children aged 3-9 years
+Moral lesson: Being big is not about size. It is about the heart, and what you do with it.
+Visual style: High-quality 3D animated children's illustration (cinematic children's animation), lush miniature forest world seen from a tiny scale, warm dappled sunlight through leaves, glowing bokeh, glossy toy-like rendering.
+Format: Portrait orientation, 9:16 aspect ratio, 768x1376 px, RGB, one image per page, 20 pages total.
 
-===
-PAGE 2-3 (Title Page):
-THE TINY GIANT
+SCALE RULE (critical for this book):
+Everything in the forest is drawn at ENORMOUS scale relative to Pip. A blade of grass is taller than he is. A pebble is a hill. A mushroom is a chair or a stage. A raindrop is a bath. Keep this tiny-creature perspective on every page.
 
-Written by
-Hamidreza Rostami
+Main characters:
+- Pip: a very small round creature, no taller than a daisy, with soft mint-green fur, a cream belly, huge round ears like a fennec fox, big bright amber eyes, a small black nose, tiny paws and feet, and a tuft of fluff on top of his head. Cheerful, proud, determined, and absolutely convinced he is a giant.
+- Squirrel: a plump cheerful red-brown squirrel with a big fluffy tail and bright clever eyes.
+- Rabbit: a small soft brown rabbit with long ears and a gentle face.
+- Fox: a young orange fox cub with a white chest, big ears and hopeful eyes.
+- Mice family: three tiny grey mice with pink ears.
 
-[Illustration: Simple design with Pip standing on a toadstool, looking up at the title. The background has oversized leaves and flowers.]
+== PAGE 1 (FRONT COVER - PORTRAIT) ==
+Title (embedded in artwork): THE TINY GIANT
+Credit (embedded in artwork): Created by Hamidreza Rostami
+Art: Pip, a very small round creature with soft mint-green fur, a cream belly, huge round ears, big bright amber eyes and a tuft of fluff on his head, stands tall and proud on top of a big red-capped mushroom with white spots, chest puffed out, one tiny paw on his hip, looking triumphant. Behind him a towering miniature forest with giant flowers, enormous blades of grass and huge leaves, warm sunlight streaming through in glowing beams. Everything dwarfs him. Confident, charming, whimsical.
 
-===
-PAGE 4 (Copyright):
-Copyright © 2026 Hamidreza Rostami
-All rights reserved.
+== PAGE 2 ==
+Text: Pip was small. Very small. So small that he could hide behind a single blade of grass. So small that a raindrop could give him a bath.
+Art: A wide, dazzling miniature forest scene. Towering blades of grass rise like green skyscrapers, giant flowers with petals bigger than Pip, an enormous acorn resting on the mossy ground. Pip stands tiny at the bottom center, hands on hips, looking up. Warm dappled light, glowing bokeh. Sense of enormous scale.
 
-===
-PAGE 5 (Story begins):
-Pip was small.
+== PAGE 3 ==
+Text: So small that the other forest creatures often forgot he was there. But Pip didn't mind being small. In fact, Pip thought he was a giant.
+Art: A lovely character portrait of Pip standing on a small flat stone, chest puffed, chin up, eyes bright, one paw raised in a proud little salute. Soft moss, tiny ferns and giant dewdrops surround him, each dewdrop as big as his head, sparkling with light. Confident and adorable.
 
-Very small.
+== PAGE 4 ==
+Text: "I am Pip the Giant!" he would declare, standing on top of a pebble.
+Art: Pip stands on top of a round pebble like a king on a boulder, one tiny paw thrown up in victory, mouth open mid-declaration, eyes shining. The pebble is at his chest height from the ground, making him feel tall. Around him a forest of enormous moss, clover and grass. Warm light. Bold, comical, endearing.
 
-So small that he could hide behind a single blade of grass. So small that a raindrop could give him a bath. So small that the other forest creatures often forgot he was there.
+== PAGE 5 ==
+Text: The squirrels would giggle. "You're not a giant, Pip. You're the smallest creature in the forest!" The rabbits would laugh. "A giant? You're smaller than my foot!"
+Art: Pip on his pebble, arms crossed, unbothered and smiling. Around the pebble two plump red-brown squirrels are giggling with paws over their mouths, and a soft brown rabbit sits back laughing, one long foot stretched out beside Pip to show the comic size difference. Warm forest clearing, dappled light. Playful, affectionate teasing.
 
-But Pip didn't mind being small.
+== PAGE 6 ==
+Text: But Pip just smiled. "You'll see," he would say. "One day, I'll do something so big, so giant, that everyone will know I'm a giant too!"
+Art: A close, warm shot of Pip standing tall with one paw pointing up and forward, eyes full of determination and hope, a tiny confident smile. Behind him the enormous forest glows with warm light, tall grass and giant flowers towering. The squirrel and rabbit are soft and blurred behind. Brave, heartfelt.
 
-In fact, Pip thought he was a giant.
+== PAGE 7 ==
+Text: One day, a great wind blew through the forest. It was strong and wild, and it knocked down many things.
+Art: A dramatic windy forest scene. Leaves and small branches fly sideways through the air, giant grass blades whip and bend, petals scatter. The light is cooler and more turbulent. Pip crouches low on the moss, ears flattened, holding on. Dynamic motion, dramatic but not frightening.
 
-[Illustration: Pip, a tiny round creature with oversized ears and a cheerful expression, standing in a forest where everything is huge compared to him - towering flowers, massive blades of grass, a giant acorn. He looks proud and confident.]
+== PAGE 8 ==
+Text: A bird's nest fell from a tree. A family of mice lost their home. A little fox's favorite play area was covered in branches. The forest creatures were sad and worried.
+Art: A wide scene of the aftermath of the storm. On the left a woven bird's nest lies tipped on the ground with two worried little birds beside it. In the middle three tiny grey mice with pink ears stand looking at their crushed grass home. On the right a young orange fox cub with a white chest looks sadly at a heap of fallen branches. Pip watches from the foreground, small but attentive. Soft grey-green storm light.
 
-===
-PAGE 6-7:
-"I am Pip the Giant!" he would declare, standing on top of a pebble.
+== PAGE 9 ==
+Text: Pip saw the trouble. He knew he had to help. But he was so small. What could he do? Then he had an idea. A giant idea.
+Art: A close-up of Pip with a visible spark of inspiration: his huge ears perk straight up, his amber eyes go wide and bright, and a small glowing light bulb-like sparkle of warm light pops above his tuft of fluff. His little paw is raised as the idea hits. Behind him the troubled forest is soft and blurred. Eureka moment, charming and hopeful.
 
-The squirrels would giggle. "You're not a giant, Pip. You're the smallest creature in the forest!"
+== PAGE 10 ==
+Text: He scurried to the center of the forest, where the biggest tree stood. At the base of the tree was a hole — just the right size for Pip.
+Art: Pip runs at full speed across the mossy forest floor toward an enormous ancient tree trunk that fills the frame, its bark like a canyon wall. At its base a small dark round hole in the roots is just his size. Leaves and petals still swirl in the air around him. Dynamic motion, adventure, purpose.
 
-The rabbits would laugh. "A giant? You're smaller than my foot!"
+== PAGE 11 ==
+Text: Pip squeezed into the hole and began to dig. He dug and dug, making the hole bigger and deeper. "What are you doing, Pip?" asked a squirrel, peeking in. "I'm making a new home!" Pip said, his small paws working quickly.
+Art: Inside the tree hole, warm dark earth surrounding. Pip digs energetically, small clods of dirt flying out behind him in an arc, his little paws a blur, cheeks puffed with effort and a huge grin. At the rim of the hole a plump red-brown squirrel peers in with a curious tilted head. Warm earthy tones, cozy and funny.
 
-But Pip just smiled. "You'll see," he would say. "One day, I'll do something so big, so giant, that everyone will know I'm a giant too!"
+== PAGE 12 ==
+Text: The other creatures watched as Pip worked. He was small, but he was fast. And he didn't stop.
+Art: A hopeful gathering scene. Around the base of the great tree, small forest creatures watch Pip work: the squirrel, the rabbit with her long ears, two birds, and three tiny grey mice all peering toward the hole. Pip is a small determined figure half inside the hole, dirt flying. Warm light returning to the forest. Community, teamwork, hopeful.
 
-[Illustration: Pip standing on a pebble, declaring himself a giant. Squirrels and rabbits laugh around him. Pip looks determined.]
+== PAGE 13 ==
+Text: Soon, the hole was big enough for the mice family. They moved in, safe and warm. But Pip wasn't done.
+Art: A cozy heartwarming shot: the enlarged hole in the tree root is now a snug little home, and the three tiny grey mice with pink ears are happily settled inside on soft moss bedding, waving and smiling, their dark round doorway framed by roots. Pip stands proudly outside with paws on hips. Warm golden glow from inside the hole. Tender and satisfying.
 
-===
-PAGE 8-9:
-One day, a great wind blew through the forest. It was strong and wild, and it knocked down many things.
+== PAGE 14 ==
+Text: He climbed the tree (which, for Pip, was like climbing a mountain) and found the bird's nest. It was tangled in branches, high above the ground.
+Art: An epic vertical shot: the enormous tree trunk rises out of frame, its bark like a cliff face with deep ridges. Pip is tiny, mid-climb, gripping a bark ledge with both paws, his tail tucked, looking up at a distant tangled bird's nest caught in branches far above him. Sunbeams slant down through the canopy. Awe-inspiring scale, courage.
 
-A bird's nest fell from a tree. A family of mice lost their home. A little fox's favorite play area was covered in branches.
+== PAGE 15 ==
+Text: Pip carefully climbed to the nest. He used his small, nimble paws to untangle it. Then, he carried it piece by piece to a safer branch.
+Art: A high, airy scene among leaves. Pip stands on the tangle of twigs that is the bird's nest, carefully easing two branches apart with his small nimble paws, tongue poking out in concentration. Two worried birds perch on a nearby branch watching. High in the canopy, warm sunlight and drifting leaves. Focused, gentle, brave.
 
-The forest creatures were sad and worried.
+== PAGE 16 ==
+Text: The birds chirped happily as they settled into their repaired nest. Pip climbed down and saw the fox, still looking sad near the pile of branches.
+Art: Two moods in one frame. In the upper part of the image, the repaired nest sits neatly on a branch with two happy birds snuggled in it, chirping. Below, on the mossy forest floor, Pip has just climbed down and turns to see the young orange fox cub sitting sadly beside a big pile of fallen branches, his ears drooping and his white chest hunched. Warm upper light, cooler shadow below.
 
-[Illustration: A windy forest scene. A bird's nest is on the ground. Mice look at their damaged home. A fox looks at a pile of branches. Pip watches from a safe spot.]
+== PAGE 17 ==
+Text: "What's wrong?" Pip asked. "My favorite play area is all covered," the fox said. "I can't play hide and seek anymore."
+Art: A sweet eye-level conversation. Pip stands on a small rock so he can be closer to eye level with the young orange fox cub, who sits with drooping ears and sad hopeful eyes beside a mound of fallen branches. Pip's paw rests kindly on the fox's big front paw. Warm soft light, tender and sympathetic.
 
-===
-PAGE 10-11:
-Pip saw the trouble. He knew he had to help.
+== PAGE 18 ==
+Text: Pip looked at the branches. They were big and heavy. Much bigger than him. But Pip had an idea.
+Art: Pip stands alone in the foreground, arms crossed, chin in paw, studying an enormous pile of fallen branches that towers over him like a jumbled mountain of logs. The scale difference is huge and slightly daunting. A single warm sparkle of inspiration glimmers near his head. Thoughtful, determined, hopeful.
 
-But he was so small. What could he do?
+== PAGE 19 ==
+Text: He gathered all the small creatures — the mice, the squirrels, even a few bugs — and they worked together to move the branches.
+Art: A joyful teamwork scene. A long line of small forest creatures works together to haul a thick fallen branch: three grey mice push from behind, two red-brown squirrels pull a grass-rope line, a rabbit braces from the side, and a column of tiny beetles marches underneath. Pip stands at the front like a general, one paw raised, directing. Warm golden light, dust and effort. Inspiring and funny.
 
-Then he had an idea. A giant idea.
-
-He scurried to the center of the forest, where the biggest tree stood. At the base of the tree was a hole—just the right size for Pip.
-
-[Illustration: Pip running toward a large tree with a hole at its base. The forest is still windy, with leaves and small branches blowing around.]
-
-===
-PAGE 12-13:
-Pip squeezed into the hole and began to dig. He dug and dug, making the hole bigger and deeper.
-
-"What are you doing, Pip?" asked a squirrel, peeking in.
-
-"I'm making a new home!" Pip said, his small paws working quickly.
-
-[Illustration: Pip inside the tree hole, digging. A squirrel peeks in, looking curious. Dirt is flying out behind Pip.]
-
-===
-PAGE 14-15:
-The other creatures watched as Pip worked. He was small, but he was fast. And he didn't stop.
-
-Soon, the hole was big enough for the mice family. They moved in, safe and warm.
-
-But Pip wasn't done.
-
-[Illustration: The mice family moving into the enlarged hole in the tree. They look happy and safe. Pip is still digging, making the hole even bigger.]
-
-===
-PAGE 16-17:
-He climbed the tree (which, for Pip, was like climbing a mountain) and found the bird's nest.
-
-It was tangled in branches, high above the ground.
-
-Pip carefully climbed to the nest. He used his small, nimble paws to untangle it. Then, he carried it piece by piece to a safer branch.
-
-[Illustration: Pip high in the tree, working on the tangled bird's nest. He's using his paws to carefully untangle the branches. Birds watch from a nearby branch.]
-
-===
-PAGE 18-19:
-The birds chirped happily as they settled into their repaired nest.
-
-Pip climbed down and saw the fox, still looking sad near the pile of branches.
-
-"What's wrong?" Pip asked.
-
-"My favorite play area is all covered," the fox said. "I can't play hide and seek anymore."
-
-[Illustration: Pip talking to the fox. The fox looks sad, sitting next to a pile of branches. Pip looks thoughtful.]
-
-===
-PAGE 20-21:
-Pip looked at the branches. They were big and heavy. Much bigger than him.
-
-But Pip had an idea.
-
-He gathered all the small creatures—the mice, the squirrels, even a few bugs—and they worked together to move the branches.
-
-[Illustration: Pip organizing the small creatures. Mice, squirrels, and bugs are all working together to move branches. Pip is directing them.]
-
-===
-PAGE 22-23:
-It took a long time. And it was hard work. But finally, the play area was clear.
-
-The fox's eyes lit up. "Thank you, Pip! Now I can play again!"
-
-Pip smiled. "You're welcome. That's what giants do."
-
-[Illustration: The play area is clear. The fox looks happy and is starting to play. Pip stands nearby, looking proud.]
-
-===
-PAGE 24-25:
-Word of Pip's good deeds spread through the forest.
-
-The birds told their friends. The mice told their family. The fox told everyone he met.
-
-Soon, all the forest creatures knew about the tiny creature who had done such big, giant things.
-
-[Illustration: Forest creatures talking to each other, spreading the news about Pip. Pip walks by, looking happy.]
-
-===
-PAGE 26-27:
-The next day, as Pip was resting on a mushroom (which, for him, was like a big, comfy chair), the forest creatures gathered around.
-
-"Pip," said the oldest squirrel, "we have something to say."
-
-Pip sat up, curious.
-
-[Illustration: Pip sitting on a large mushroom. Forest creatures are gathered around him, looking serious but kind.]
-
-===
-PAGE 28 (Final page):
-"You may be small," said the squirrel. "But you have the heart of a giant.
-
-And that makes you the biggest creature in the forest."
-
-Pip beamed. He had known it all along.
-
-He was Pip the Giant.
-
-[Illustration: Pip standing tall on his mushroom, looking proud. The forest creatures are around him, smiling. The forest is peaceful and beautiful.]
+== PAGE 20 (BACK COVER - PORTRAIT) ==
+Blurb (embedded in artwork):
+Pip is the smallest creature in the whole forest. So of course he tells everyone he is a giant.
+When a great wind knocks down nests and homes, tiny Pip sets out to do something truly enormous.
+A warm story about kindness, courage, and discovering that being big has nothing to do with size.
+Credit (embedded in artwork): Created by Hamidreza Rostami
+Art: Complementary miniature-forest artwork: a small round mint-green creature with huge ears standing proudly on a red-capped mushroom, surrounded by towering grass and giant flowers with warm sunbeams and glowing dewdrops.
