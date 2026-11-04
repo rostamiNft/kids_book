@@ -1,170 +1,109 @@
 THE QUIET LITTLE DRUM
 by Hamidreza Rostami
 
-===
-PAGE 1 (Cover):
-[Illustration: A small, round drum with a wooden body and a soft leather top, sitting alone on a stage. The drum has a gentle, almost sad expression. Around it, other musical instruments are playing loudly. The title appears in soft, rounded text.]
-
-===
-PAGE 2-3 (Title Page):
-THE QUIET LITTLE DRUM
-
-Written by
-Hamidreza Rostami
-
-[Illustration: Simple design with the little drum sitting quietly. Musical notes float gently around it.]
-
-===
-PAGE 4 (Copyright):
-Copyright © 2026 Hamidreza Rostami
-All rights reserved.
-
-===
-PAGE 5 (Story begins):
-In the great orchestra of Mr. Harmony's music shop, every instrument had a voice.
-
-The trumpet blasted. The violin sang. The piano tinkled. The cymbals crashed.
-
-And then there was Drum.
-
-[Illustration: A busy music shop. Various instruments are playing loudly. The little drum sits quietly in the corner, looking small and overlooked.]
-
-===
-PAGE 6-7:
-Drum was small and round, with a smooth wooden body and a soft leather top. He loved music. He loved rhythm. He loved the way the other instruments made the air dance.
-
-But Drum had a secret.
-
-He couldn't make a sound.
-
-[Illustration: Close-up of Drum. He looks sad, his leather top smooth and untouched. Other instruments play in the background.]
-
-===
-PAGE 8-9:
-"Why don't you play with us?" asked Violin, her strings humming.
-
-Drum shook his head. "I... I can't."
-
-"Of course you can!" said Trumpet, blasting a loud note. "Just hit your top!"
-
-Drum tried. He tried hard. But no sound came out.
-
-[Illustration: Violin and Trumpet talking to Drum. Trumpet is loud and enthusiastic. Violin looks curious. Drum looks embarrassed as he tries to make a sound.]
-
-===
-PAGE 10-11:
-"Maybe you're broken," said Piano, her keys clicking softly.
-
-Drum's heart sank. "Maybe I am."
-
-He rolled into a quiet corner of the shop, where the dust gathered and the light was dim.
-
-[Illustration: Drum rolling into a dark corner of the shop. He looks sad and defeated. Piano looks concerned.]
-
-===
-PAGE 12-13:
-One day, a little girl named Lily came into the shop. She had soft brown hair and curious eyes.
-
-She walked around, looking at all the instruments. She listened to the trumpet's blast. She admired the violin's shine. She tapped the piano's keys.
-
-Then she saw Drum.
-
-[Illustration: Lily walking through the music shop. She's looking at various instruments. In the corner, she spots Drum.]
-
-===
-PAGE 14-15:
-"What's this?" Lily asked, picking up Drum.
-
-"That's just Drum," said Mr. Harmony. "He doesn't work."
-
-But Lily didn't put Drum down. She held him close and looked at him carefully.
-
-"I think he's beautiful," she said.
-
-[Illustration: Lily holding Drum. She looks at him with kind eyes. Mr. Harmony looks surprised.]
-
-===
-PAGE 16-17:
-Lily took Drum home. She set him on her bed and talked to him like he was her best friend.
-
-"You're going to be my special drum," she said. "Even if you can't make noise, you can still be with me."
-
-Drum felt warm inside. No one had ever talked to him like that before.
-
-[Illustration: Lily in her bedroom, talking to Drum. She's sitting on her bed, Drum beside her. The room is cozy with stuffed animals and books.]
-
-===
-PAGE 18-19:
-One night, as Lily slept, Drum heard a sound. A soft, sad sound.
-
-It was coming from outside. A little kitten was mewing, lost and scared.
-
-Drum wanted to help. But how? He couldn't make noise to call for help.
-
-[Illustration: Night scene. Lily is sleeping in her bed. Outside the window, a small kitten looks lost. Drum looks concerned.]
-
-===
-PAGE 20-21:
-Then Drum had an idea.
-
-He rolled to the window and began to tap. Not on his top—on the glass.
-
-Tap. Tap. Tap.
-
-The sound was soft. Very soft. But it was a sound.
-
-[Illustration: Drum rolling to the window. He's tapping gently on the glass with his wooden edge. The kitten looks up, curious.]
-
-===
-PAGE 22-23:
-Lily woke up. She heard the soft tapping and saw Drum at the window.
-
-She looked outside and saw the kitten.
-
-"Oh! A lost kitten!" she said.
-
-She opened the window and brought the kitten inside.
-
-[Illustration: Lily opening the window. She's holding the kitten. Drum looks happy.]
-
-===
-PAGE 24-25:
-"Thank you, Drum," Lily said, hugging him. "You helped me find the kitten!"
-
-Drum felt proud. He had made a difference, even without making a sound.
-
-But then Lily had another idea.
-
-"Let's see if we can make you work!" she said.
-
-[Illustration: Lily hugging Drum and the kitten. She looks excited. Drum looks hopeful.]
-
-===
-PAGE 26-27:
-Lily tried everything. She tapped Drum's top. She shook him. She even talked to him.
-
-But no sound came out.
-
-Then, Lily had a thought. "Maybe... maybe you're not meant to be loud."
-
-She held Drum close to her ear and whispered, "Maybe you're meant to be quiet."
-
-And then, Drum heard it.
-
-The softest sound. Like a heartbeat. Like a secret.
-
-It was his sound.
-
-[Illustration: Lily holding Drum to her ear, whispering. Drum's leather top has a soft, subtle vibration. The scene is quiet and magical.]
-
-===
-PAGE 28 (Final page):
-From that day on, Drum still didn't make loud noises like the other instruments.
-
-But he made the most beautiful quiet sounds.
-
-And Lily? She became the best listener in the world.
-
-Because she knew that sometimes, the most important sounds are the ones you have to listen very, very carefully to hear.
-
-[Illustration: Lily sitting with Drum and the kitten. She's listening to Drum's quiet sound. The kitten is curled up beside them. The scene is peaceful and warm.]
+Target audience: Children aged 3-9 years
+Moral lesson: You do not have to be loud to matter. Sometimes the most important sounds are the ones you have to listen very carefully to hear.
+Visual style: High-quality 3D animated children's illustration (cinematic children's animation), warm painterly rendering with golden dust motes in sunbeams, glossy toy-like surfaces, cozy and inviting.
+Format: Portrait orientation, 9:16 aspect ratio, 768x1376 px, RGB, one image per page, 20 pages total.
+
+CHARACTER LOCK (repeat in every prompt):
+Drum - a small round drum character, about the size of a cookie tin, with a smooth honey-brown polished wooden body, a soft cream leather top stretched tight, small brass tacks and tiny tuning pegs around the rim, two gentle dark expressive eyes and a small mouth painted onto the wooden body, and two tiny wooden feet. He is alive and friendly. He must look like a warm wooden drum with a face, NOT a toy robot, and NOT a cartoon face floating on a cylinder.
+
+CHARACTER LOCK:
+Lily - a little girl about six years old with soft wavy brown hair to her shoulders, big curious hazel eyes, light freckles, a simple pale-yellow dress with a cream collar and white socks. She appears in the second half of the book and must look identical on every page.
+
+SUPPORTING CHARACTERS:
+- Mr. Harmony: an elderly shopkeeper with round brass glasses, a fluffy grey moustache, a burgundy apron over a cream shirt, kind crinkly eyes.
+- The kitten: a tiny grey tabby kitten with white paws, a white chest and big green eyes.
+- Violin: an elegant amber violin with a face, warm and curious.
+- Trumpet: a shiny brass trumpet with a face, brash, loud and friendly.
+- Piano: a warm brown upright piano with a face, gentle and worried.
+
+SETTING: Mr. Harmony's music shop - a warm dusty shop full of wooden shelves, brass instruments, stacked sheet music and golden afternoon sunbeams; and later Lily's cozy bedroom at night with a big window and a patchwork quilt.
+
+TEXT RULE: all text is painted into the illustration. Narrative prose carries no quotation marks; spoken lines keep their quotation marks exactly. Avoid contractions that invite stray apostrophes (write "cannot", "did not", "does not").
+
+== PAGE 1 (FRONT COVER) ==
+Title (embedded in artwork): THE QUIET LITTLE DRUM
+Credit (embedded in artwork): Created by Hamidreza Rostami
+Art: Drum sits alone in a warm pool of golden light on the wooden floor of the music shop, small and round and hopeful, his cream leather top glowing. Behind him, softly out of focus and taller than he is, a gleaming trumpet, an amber violin and the keys of an upright piano. Dust motes float in a sunbeam. Warm honey and amber palette.
+
+== PAGE 2 ==
+Text: In the great orchestra of Mr. Harmony's music shop, every instrument had a voice.
+Art: A wide, bustling view of the warm music shop: wooden shelves stacked with sheet music, brass instruments hanging, an upright piano, a violin on a stand, a trumpet on a velvet stool. All of them alive with faces, mid-performance, glowing. Golden sunbeams full of dust motes.
+
+== PAGE 3 ==
+Text: The trumpet blasted. The violin sang. The piano tinkled. The cymbals crashed. And then there was Drum.
+Art: A lively comic scene: Trumpet puffs out his cheeks mid-blast with big musical notes bursting out, Violin sings with her bow raised, Piano plays with his keys rippling in a wave, Cymbals clang in a burst of light. In the foreground, small and quiet, Drum stands still with a shy hopeful face, looking up at them all.
+
+== PAGE 4 ==
+Text: Drum was small and round, with a smooth wooden body and a soft leather top. He loved music. He loved rhythm. He loved the way the other instruments made the air dance.
+Art: Warm close portrait of Drum on the wooden floor. The golden light makes his polished honey-brown wood gleam and his cream leather top glow softly. Around him, faint rippling waves of warm air and drifting musical notes show the music in the air. He looks happy and full of love for it.
+
+== PAGE 5 ==
+Text: But Drum had a secret. He could not make a sound.
+Art: A quiet, tender close-up. Drum sits alone, his eyes downcast and sad, his smooth cream leather top untouched and unmarked. Far behind him the other instruments glow and play, blurred and warm, their sound a soft haze. A single shaft of light falls on Drum. Melancholy but gentle.
+
+== PAGE 6 ==
+Text: "Why do you not play with us?" asked Violin, her strings humming.
+Art: Elegant amber Violin leans down toward small Drum, her bow lowered, her face kind and curious, her strings faintly shimmering. Drum looks up at her, uncertain, his little wooden feet together. Warm wooden shop background. Friendly and gentle.
+
+== PAGE 7 ==
+Text: "Of course you can!" said Trumpet, blasting a loud note. "Just hit your top!" Drum tried. He tried hard. But no sound came out.
+Art: A funny, tender scene. Trumpet leans in close, cheeks puffed, a bold burst of bright notes flying from his bell. Drum stands beside him having just given his top a hopeful little whack with one wooden edge, his eyes squeezed shut in effort, his cream top perfectly silent. Violin watches with a worried tilt of her head. Warm light.
+
+== PAGE 8 ==
+Text: "Maybe you are broken," said Piano, her keys clicking softly. Drum's heart sank. "Maybe I am."
+Art: A sorrowful beat. Warm brown upright Piano leans her great body forward with an apologetic worried face, one key pressed. Drum stands small before her, his eyes big and wet, his little shoulders drooping. The light is soft and blue-grey in this moment. Quiet and sad, but not frightening.
+
+== PAGE 9 ==
+Text: He rolled into a quiet corner of the shop, where the dust gathered and the light was dim.
+Art: Drum alone in a dim, dusty corner of the shop, half-hidden behind a rolled carpet and a stack of old sheet music, cobweb threads catching the light, one thin pale sunbeam falling across him. His face is turned away, sad and small. The rest of the shop glows warmly in the distance, far away.
+
+== PAGE 10 ==
+Text: One day, a little girl named Lily came into the shop. She had soft brown hair and curious eyes.
+Art: The shop door opens and Lily steps in, backlit by warm afternoon light, one hand on the door frame, her eyes wide and shining with wonder at the forest of instruments around her. Bell above the door, brass instruments gleaming, dust motes swirling in the light.
+
+== PAGE 11 ==
+Text: She walked around, looking at all the instruments. She listened to the trumpet's blast. She admired the violin's shine. She tapped the piano's keys. Then she saw Drum.
+Art: A lovely wide shot of the shop aisle. Lily walks along, one hand trailing along a shelf, looking up at the gleaming trumpet and the shining violin and the piano keys. In the dim corner at the end of the aisle, small Drum is just coming into view, and Lily's eyes have found him.
+
+== PAGE 12 ==
+Text: "What is this?" Lily asked, picking up Drum. "That is just Drum," said Mr. Harmony. "He does not work."
+Art: Lily kneels on the shop floor and lifts Drum gently in both hands, holding him up to her face with delight. Behind them Mr. Harmony stands with a feather duster in one hand, moustache drooping, shrugging kindly. Warm shop light.
+
+== PAGE 13 ==
+Text: But Lily did not put Drum down. She held him close and looked at him carefully. "I think he is beautiful," she said.
+Art: A warm, intimate close-up of Lily holding Drum against her chest, her cheek nearly touching his cream leather top, her eyes soft and kind. Mr. Harmony's surprised face is blurred in the background. Golden light surrounds them both.
+
+== PAGE 14 ==
+Text: Lily took Drum home. She set him on her bed and talked to him like he was her best friend.
+Art: A cozy bedroom at dusk. Lily sits cross-legged on her patchwork-quilt bed with Drum beside her, talking to him with an open happy face, one hand resting on his rim. Stuffed animals, a bookshelf and a warm little lamp around them, soft evening light.
+
+== PAGE 15 ==
+Text: "You are going to be my special drum," she said. "Even if you cannot make noise, you can still be with me." Drum felt warm inside. No one had ever talked to him like that before.
+Art: A tender bedroom close-up. Lily lies on her side on the bed with Drum tucked beside her, whispering to him with a soft smile. Drum's eyes are bright and his wooden cheeks have a faint warm glow of happiness. Cozy lamplight, a calico quilt, a sleeping cat plush.
+
+== PAGE 16 ==
+Text: One night, as Lily slept, Drum heard a sound. A soft, sad sound. It was coming from outside. A little kitten was mewing, lost and scared.
+Art: Night scene. Lily sleeps peacefully under her patchwork quilt. On the windowsill, Drum sits alert, eyes wide, looking out. Outside the moonlit window, a tiny grey tabby kitten with white paws and big green eyes sits on a branch, alone and frightened, mewing. Cool blue moonlight outside, warm dark room inside.
+
+== PAGE 17 ==
+Text: Drum wanted to help. But how? He could not make noise to call for help. Then Drum had an idea. He rolled to the window and began to tap. Not on his top. On the glass. Tap. Tap. Tap.
+Art: Dramatic, delightful night moment. Drum presses his wooden rim and one tiny foot against the window glass, tapping it, with little concentric ripple rings and tiny bright tap-marks glowing where he touches. Outside, the little grey kitten looks up, ears forward, hopeful. Moonlight blue and a warm rim of light on Drum.
+
+== PAGE 18 ==
+Text: Lily woke up. She heard the soft tapping and saw Drum at the window. She looked outside and saw the kitten. She opened the window and brought the kitten inside.
+Art: Lily kneels at the open window in her nightgown with the moonlight behind her, cradling the little grey tabby kitten in her arms, its white paws tucked in, while Drum sits beside them on the sill, glowing with quiet pride. Night blue outside, warm lamp glow inside.
+
+== PAGE 19 ==
+Text: Lily hugged Drum. "Thank you, Drum," she said. "You helped me find the kitten!" Then she held Drum close to her ear and whispered, "Maybe you are meant to be quiet." And then Drum heard it. The softest sound, like a heartbeat. It was his sound.
+Art: The emotional payoff, a single intimate scene. Lily sits on her bed in soft lamplight, holding Drum up to her ear with both hands, her eyes closed in concentration and a small wondering smile. The kitten is curled asleep on the quilt beside her. Around Drum, the faintest soft golden ripples and tiny glowing music notes drift out, delicate and quiet, showing his gentle new sound. Warm, magical, still.
+
+== PAGE 20 (BACK COVER) ==
+Blurb (embedded in artwork):
+Drum lives in Mr. Harmony's music shop, where every instrument has a voice. Every instrument except Drum.
+When a lost kitten calls in the night, the littlest drum in the shop finds a way to help without making a single loud sound.
+A gentle story about kindness, patience, and discovering that the most important sounds are the ones you have to listen very carefully to hear.
+Credit (embedded in artwork): Created by Hamidreza Rostami
+Art: Complementary artwork: Drum sits in a warm sunbeam on the wooden shop floor, his cream top glowing, with faint golden musical notes and dust motes drifting around him. Soft cream-to-amber gradient in the lower two thirds for the text.
