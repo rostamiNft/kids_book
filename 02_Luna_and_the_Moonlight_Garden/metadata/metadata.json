@@ -1,45 +1,60 @@
 {
+  "book_number": 2,
   "title": "Luna and the Moonlight Garden",
   "author": "Hamidreza Rostami",
+  "creator_credit": "Created by Hamidreza Rostami",
   "language": "English",
-  "target_age": "4-8 years",
+  "target_age": "3-9 years",
   "genre": "Children's Picture Book",
-  "short_description": "A girl discovers a magical garden that only appears in moonlight.",
-  "long_description": "Luna loves her grandmother's garden, but she's always wondered about the Moonlight Garden from Grandma's stories. One full moon night, she sneaks outside and discovers the garden is real—and it's magical! Flowers glow, plants dance, and a tiny ladybug with a flower crown becomes her guide. But when she finds a sad, bare branch on the Heart Tree, Luna must use her belief to bring the magic back. A enchanting story about wonder, curiosity, and the power of belief.",
-  "keywords": ["moonlight", "garden", "magic", "curiosity", "belief", "nature", "adventure", "grandmother", "fairy tale", "children's book"],
-  "themes": ["Wonder", "Curiosity", "Belief", "Magic of nature", "Intergenerational love"],
-  "page_count": 30,
-  "visual_style": "Dreamy pastel digital painting",
-  "color_palette": ["soft blues", "silver whites", "pastel purples", "warm golds", "deep greens"],
+  "moral_lesson": "Believe in magic, and your belief can bring it back to life.",
+  "short_description": "A curious girl follows the moonlight into a secret garden and discovers that believing is the strongest magic of all.",
+  "long_description": "Luna loves her grandmother's stories about the Moonlight Garden, a magical place that appears only when the moon is full. One night she follows the moonlight through her garden and finds that every flower glows, the plants dance, and a tiny silver door in an old oak tree opens for her. Out steps a magical ladybug who leads her to the great Heart Tree, where one sad branch has lost its belief. Luna reaches out and whispers, 'I believe in you' — and the magic returns. A gentle bedtime story about wonder, belief, and the courage to keep dreaming.",
+  "keywords": ["moonlight", "garden", "magic", "belief", "curiosity", "ladybug", "grandmother", "bedtime", "wonder", "children's book"],
+  "themes": ["Wonder", "Belief", "Curiosity", "Kindness", "Family"],
+  "page_count": 20,
+  "page_structure": {
+    "1": "front cover",
+    "2-19": "story pages",
+    "20": "back cover"
+  },
+  "format": {
+    "orientation": "portrait",
+    "aspect_ratio": "9:16",
+    "pixel_dimensions": "768x1376",
+    "color_model": "RGB",
+    "images_per_pdf_page": 1,
+    "double_page_spreads": false
+  },
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation), moonlit teal and silver palette with warm golden accents, dreamy volumetric light, glossy toy-like rendering",
+  "color_palette": ["deep teal", "silver", "turquoise", "warm gold", "soft pink", "moon white"],
   "main_characters": [
     {
       "name": "Luna",
-      "type": "Human",
-      "age": "6 years old",
-      "description": "A curious girl with dark curly hair and a blue nightgown. She has wide, wondering eyes and a gentle smile.",
-      "personality": "Curious, brave, kind, imaginative"
+      "type": "Girl",
+      "description": "A cute 6-year-old girl with warm brown skin, big expressive brown eyes with long lashes, rosy cheeks, a small button nose, and dark curly hair tied into two round buns high on her head with loose curls framing her face. Wears a pale blue nightgown.",
+      "personality": "Curious, kind, brave, full of wonder"
     },
     {
       "name": "Grandma",
-      "type": "Human",
-      "age": "Elderly",
-      "description": "Luna's grandmother with silver hair in a bun, round glasses, and a warm, kind face. She wears a cozy sweater.",
-      "personality": "Wise, patient, loving, magical"
+      "type": "Grandmother",
+      "description": "A warm loving older woman with silver hair in a bun, gentle smiling eyes behind round glasses, and a cozy knitted shawl.",
+      "personality": "Kind, wise, playful storyteller"
     },
     {
       "name": "Ladybug",
-      "type": "Magical creature",
-      "description": "A tiny ladybug with iridescent wings that shimmer like moonbeams. She wears a crown of petals.",
-      "personality": "Playful, wise, kind, magical"
+      "type": "Insect",
+      "description": "A tiny adorable ladybug with a glossy red shell and soft dark spots, iridescent shimmering moonbeam wings, a small crown of pink and white petals, and big friendly eyes.",
+      "personality": "Wise, playful, encouraging"
     }
   ],
-  "settings": ["Grandma's garden", "Moonlight Garden", "Luna's bedroom"],
-  "emotional_journey": "Curiosity -> Wonder -> Compassion -> Belief -> Joy",
-  "created_date": "2026-09-06",
+  "settings": ["Grandmother's cottage garden", "Moonlight Garden", "Luna's bedroom", "The Heart Tree"],
+  "emotional_journey": "Wonder -> Curiosity -> Discovery -> Compassion -> Belief",
+  "text_rendering": "All story text, title, blurb, and credit are embedded directly inside the AI-generated artwork images. No code-rendered typography.",
+  "pdf_assembly": "Python (Pillow) used only to combine finished AI page images into one PDF.",
+  "rebuild_date": "2026-11-04",
   "file_locations": {
-    "manuscript": "/home/user/children_books/02_Luna_and_the_Moonlight_Garden/manuscript/story.txt",
-    "illustrations_dir": "/home/user/children_books/02_Luna_and_the_Moonlight_Garden/illustrations/",
-    "cover_dir": "/home/user/children_books/02_Luna_and_the_Moonlight_Garden/cover/",
-    "pdf_dir": "/home/user/children_books/02_Luna_and_the_Moonlight_Garden/pdf/"
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "pdf": "pdf/Luna_and_the_Moonlight_Garden.pdf"
   }
 }
