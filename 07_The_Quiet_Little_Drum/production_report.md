@@ -85,5 +85,8 @@ The original story's ending spread was split across two portrait pages so that t
 - **Page 20** — regenerated: paragraphs two and three ran together with no gap.
 - **Page 20** — regenerated again: the word "shop," was dropped from paragraph one and paragraphs stayed joined.
 - **Page 20** — regenerated a third time: "YOU HAVE TO" was set in capital letters inside the sentence.
+- **Page 17** — redesigned after review, five passes: (1) the body was painted with dark vertical stave lines and slats and Drum had long thin legs, so he no longer matched the other pages; (2) the face was set with a closed, half-lidded eye, reading as smug or sleepy instead of determined; (3) a second ghost copy of Drum appeared in the window glass; (4) the ghost persisted inside the glowing concentric ripple rings; (5) the final version removes the rings and the reflection entirely, sets the camera so the wooden frame post sits directly behind Drum, keeps the glass to nothing but sky, moon, clouds and a distant hill, and states the character design with a dedicated no-stave-lines negative clause.
+
+**Page 17 redesign — final QA:** body is one smooth honey-amber surface with no slats, the cream head with brass tacks matches pages 14–19, both eyes are open, the limbs are short stubby wood, the glass is completely free of reflections and duplicates, and the story text is exact.
 
 **Overall QA status: PASSED — all acceptance criteria met.**
