@@ -1,162 +1,97 @@
 THE ROBOT WHO WANTED TO DANCE
 by Hamidreza Rostami
 
-===
-PAGE 1 (Cover):
-[Illustration: Bolt, a boxy silver robot with a round head and glowing blue eyes, standing stiffly on a checkered floor. Behind him, other robots dance in a colorful, geometric factory. The title appears in bold, mechanical-style text.]
+Target audience: Children aged 3-9 years
+Moral lesson: You do not have to be perfect to feel joy — just brave enough to try.
+Visual style: High-quality 3D animated children's illustration (cinematic children's animation), bright friendly robot factory palette of teal, orange and cream with glowing accents, glossy toy-like rendering, soft volumetric light.
+Format: Portrait orientation, 9:16 aspect ratio, 768x1376 px, RGB, one image per page, 20 pages total.
 
-===
-PAGE 2-3 (Title Page):
-THE ROBOT WHO WANTED TO DANCE
+Main characters:
+- Bolt: a cute boxy silver robot with a rounded head, big glowing blue eyes on a dark face screen that shows simple happy/sad expressions, a small antenna with a glowing tip, orange accent stripes on his chest, chunky stubby arms with clamp hands and short sturdy legs. Earnest, careful, eager to please. He does NOT have a human face - his face is a screen.
+- Spark: a small round cheerful maintenance robot, sunny yellow and cream, with a single big friendly eye, a little tool belt, and springy antenna arms. Bouncy and encouraging.
+- Foreman Clank: a big broad friendly foreman robot, deep orange and dark gray, with a wide chest panel, thick arms, a small hard hat, and kind eyes.
 
-Written by
-Hamidreza Rostami
+== PAGE 1 (FRONT COVER - PORTRAIT) ==
+Title (embedded in artwork): THE ROBOT WHO WANTED TO DANCE
+Credit (embedded in artwork): Created by Hamidreza Rostami
+Art: Bolt, a cute boxy silver robot with a rounded head, glowing blue eyes on a dark face screen and orange accent stripes, stands happily mid-dance in the middle of a bright colorful robot factory, one arm raised joyfully. Behind him, friendly colorful robots dance with confetti-like sparks and floating music notes. Warm glowing lights, energetic and joyful.
 
-[Illustration: Simple design with Bolt standing at attention, his arms straight at his sides. Small gears and cogs decorate the page.]
+== PAGE 2 ==
+Text: In the great Robot Factory, every robot had a job. Some built things. Some fixed things. Some even told jokes, though their jokes were mostly beeps and boops.
+Art: A wide bustling factory floor with conveyor belts, glowing panels and pipes. Robots of many shapes and sizes work happily at different stations. Cheerful industrial storybook world.
 
-===
-PAGE 4 (Copyright):
-Copyright © 2026 Hamidreza Rostami
-All rights reserved.
+== PAGE 3 ==
+Text: And Bolt? Bolt was the best at sorting.
+Art: Bolt, a cute boxy silver robot with a rounded head, glowing blue screen eyes and orange stripes, stands proudly at a conveyor belt, quickly and neatly sorting colorful gears into tidy bins. Confident, content expression.
 
-===
-PAGE 5 (Story begins):
-In the great Robot Factory, every robot had a job.
+== PAGE 4 ==
+Text: Bolt could sort a thousand gears in an hour. He never missed. He never dropped. He was perfect.
+Art: Close view of Bolt's clamp hands neatly stacking shining gears into perfectly aligned bins, with a spinning counter display above his chest glowing. Neat rows of gleaming gears and screws. Satisfying and precise.
 
-Some built things. Some fixed things. Some even told jokes (though their jokes were mostly beeps and boops).
+== PAGE 5 ==
+Text: "Good work, Bolt!" said Foreman Clank, his big metal hand patting Bolt's shoulder. "You're the most reliable sorter we've got!"
+Art: Foreman Clank, a big broad friendly orange and dark gray robot wearing a small hard hat, pats Bolt warmly on the shoulder with a proud smile. Bolt beeps happily with bright glowing eyes. Warm factory background.
 
-And Bolt? Bolt was the best at sorting.
+== PAGE 6 ==
+Text: But one day, as Bolt was sorting, he heard something new. Music.
+Art: Bolt pauses mid-sort, head tilted, gears still in his hands. Soft glowing musical notes and a gentle rhythmic beat ripple through the air from the far end of the factory. His eyes go wide and bright.
 
-[Illustration: A busy factory floor. Robots of various shapes and sizes working at different stations. Bolt stands at a conveyor belt, quickly sorting gears into bins.]
+== PAGE 7 ==
+Text: It came from the far end of the factory, where the workers took their breaks. A soft, rhythmic sound. A beat.
+Art: View down a long factory corridor toward a warm glowing break area at the far end, where color and light spill out and musical notes float in the air. Bolt small in the foreground, drawn toward it.
 
-===
-PAGE 6-7:
-Bolt could sort a thousand gears in an hour. He never missed. He never dropped. He was perfect.
+== PAGE 8 ==
+Text: Bolt's head turned. His eyes glowed brighter. Something inside him tingled.
+Art: Extreme close-up of Bolt's round head and glowing blue screen eyes, eyes wide and shimmering with curiosity, small sparkles of light reflecting on his metal surface. Musical notes drifting past.
 
-"Good work, Bolt!" said Foreman Clank, his big metal hand patting Bolt's shoulder. "You're the most reliable sorter we've got!"
+== PAGE 9 ==
+Text: He watched as two worker robots swayed to the music. Their arms moved. Their bodies twisted. They looked happy.
+Art: Two friendly worker robots dancing joyfully in the glowing break area, one boxy and one round, arms swaying and bodies twisting, warm colorful light and floating music notes. Bolt peeking around a corner.
 
-Bolt beeped happily. Being reliable was important.
+== PAGE 10 ==
+Text: Bolt's circuits buzzed. "What are they doing?" he asked. "Dancing, of course!" said Spark, a small maintenance robot with a cheerful voice. "It's fun! You should try it!"
+Art: Spark, a small round sunny-yellow maintenance robot with a single big friendly eye and a tool belt, hovers beside Bolt with a bouncy encouraging pose and open arms. Bolt looks down at her, puzzled but intrigued.
 
-[Illustration: Foreman Clank, a large, broad robot with a clipboard, pats Bolt on the shoulder. Bolt stands proudly next to a perfectly organized row of bins.]
+== PAGE 11 ==
+Text: "I... I don't dance," said Bolt. "I sort. I am a sorting robot."
+Art: Bolt stands very stiff and straight, arms frozen at his sides, looking serious and unsure. Spark beside him tilts her round body in a friendly shrug. Calm factory break-room background.
 
-===
-PAGE 8-9:
-But one day, as Bolt was sorting, he heard something new.
+== PAGE 12 ==
+Text: "So?" said Spark. "You can do both!"
+Art: Spark bounces up happily with little sparkles of excitement around her, pointing at Bolt encouragingly. Bolt's screen face shows a tiny hopeful smile. Bright cheerful mood.
 
-Music.
+== PAGE 13 ==
+Text: Bolt looked down at his stiff, straight body. His arms were made for grabbing, not swaying. His legs were made for standing, not stepping. "I don't think I can," he said.
+Art: Bolt looks down sadly at his own stiff chunky arms and short sturdy legs, his screen face showing a small sad expression. Dimmer cooler light, quiet mood. Spark watches from the side, still hopeful.
 
-It came from the far end of the factory, where the workers took their breaks. A soft, rhythmic sound. A beat.
+== PAGE 14 ==
+Text: That night, in the quiet of the factory, Bolt couldn't stop thinking about the music. He tried to remember the rhythm. He tried to imagine his body moving.
+Art: The factory at night, dim and blue and peaceful, moonlight streaming through a high window. Bolt stands alone at his sorting station, eyes softly glowing, small musical notes echoing faintly around him.
 
-Bolt's head turned. His eyes glowed brighter. Something inside him... tingled.
+== PAGE 15 ==
+Text: But every time he thought about dancing, his systems flashed a warning: "ERROR. NOT PROGRAMMED FOR THIS FUNCTION."
+Art: Close-up of Bolt's chest panel glowing with a bright flashing red-orange warning symbol while his screen face looks worried and frustrated. Steam puffs gently from a small vent. Night factory background.
 
-[Illustration: Bolt at his sorting station, but his head is turned toward the break area. Music notes float in the air. Other robots dance in the background.]
+== PAGE 16 ==
+Text: The next day, Bolt watched the dancers again. He noticed how their joints bent. How their feet tapped. How they smiled. "Maybe... maybe I could try just one step," he thought.
+Art: Bolt watches from a distance, observing carefully as dancing robots bend their joints and tap their feet, with small helpful diagram-like arrows and dots of light highlighting their knees and ankles. Thoughtful, curious mood.
 
-===
-PAGE 10-11:
-He watched as two worker robots swayed to the music. Their arms moved. Their bodies twisted. They looked... happy.
+== PAGE 17 ==
+Text: When no one was looking, Bolt lifted one foot. Then he put it down. Then he lifted the other. CLANK. CLANK.
+Art: Bolt secretly practicing behind a tall stack of crates, awkwardly lifting one foot high with a stiff straight leg, expression of concentration. Comic little clank marks in the air. Sneaky, funny, endearing.
 
-Bolt's circuits buzzed. "What are they doing?" he asked.
+== PAGE 18 ==
+Text: It wasn't graceful. It wasn't smooth. But Bolt felt something he'd never felt before. Joy.
+Art: Close-up of Bolt's face screen glowing with a big bright joyful smile made of light, warm golden glow radiating from his chest panel, sparkles around him. Pure happiness.
 
-"Dancing, of course!" said Spark, a small maintenance robot with a cheerful voice. "It's fun! You should try it!"
+== PAGE 19 ==
+Text: He tried again. And again. Each time, his movements got a little less stiff. A little more free. Then Spark saw him. "Hey, Bolt! You ARE dancing!"
+Art: Bolt caught mid-spin in a much looser, more fluid dance pose with joy on his face, while Spark, the small yellow maintenance robot, bounces up excitedly nearby pointing at him with delight. Colorful sparks and music notes swirl around them.
 
-[Illustration: Two robots dancing - one with a boxy body doing a robot-style dance, another with a rounder body swaying. Spark, a small round robot with a tool belt, watches with Bolt.]
-
-===
-PAGE 12-13:
-"I... I don't dance," said Bolt. "I sort. I am a sorting robot."
-
-"So?" said Spark. "You can do both!"
-
-Bolt looked down at his stiff, straight body. His arms were made for grabbing, not swaying. His legs were made for standing, not stepping.
-
-"I don't think I can," he said.
-
-[Illustration: Close-up of Bolt looking at his own stiff body. Spark looks encouraging.]
-
-===
-PAGE 14-15:
-That night, in the quiet of the factory, Bolt couldn't stop thinking about the music.
-
-He tried to remember the rhythm. He tried to imagine his body moving.
-
-But every time he thought about dancing, his systems flashed a warning: "ERROR. NOT PROGRAMMED FOR THIS FUNCTION."
-
-[Illustration: Night scene in the factory. Bolt stands alone, his eyes dim. Warning lights flash on his chest display. The moon shines through a high window.]
-
-===
-PAGE 16-17:
-The next day, Bolt watched the dancers again. He noticed how their joints bent. How their feet tapped. How they smiled.
-
-"Maybe... maybe I could try just one step," he thought.
-
-When no one was looking, Bolt lifted one foot. Then he put it down. Then he lifted the other.
-
-CLANK. CLANK.
-
-[Illustration: Bolt secretly practicing. He's lifting one foot awkwardly. His movements are stiff and robotic.]
-
-===
-PAGE 18-19:
-It wasn't graceful. It wasn't smooth. But Bolt felt something he'd never felt before.
-
-Joy.
-
-He tried again. And again. Each time, his movements got a little less stiff. A little more... free.
-
-[Illustration: Bolt practicing more confidently. His posture is looser. He's starting to find a rhythm.]
-
-===
-PAGE 20-21:
-Spark saw him. "Hey, Bolt! You ARE dancing!"
-
-Bolt froze. "I... I was just... testing my joints."
-
-Spark laughed. "Sure you were! Come on, let's try together!"
-
-[Illustration: Spark discovers Bolt practicing. Spark looks excited. Bolt looks embarrassed but also a little proud.]
-
-===
-PAGE 22-23:
-Spark turned on the music. Bolt hesitated.
-
-"I don't know the steps," Bolt said.
-
-"Neither do I!" said Spark. "We'll make them up!"
-
-And so they did.
-
-[Illustration: Bolt and Spark dancing together. Bolt's movements are still a bit stiff, but he's clearly enjoying himself. Spark is more fluid. Music notes float around them.]
-
-===
-PAGE 24-25:
-At first, Bolt's dancing was... interesting. He moved like a robot trying to be a ballerina. His arms swung wide. His legs stomped.
-
-But then something amazing happened. Bolt stopped thinking about being perfect. He just... moved.
-
-And the more he moved, the more the music seemed to move through him.
-
-[Illustration: Bolt dancing more freely. His body is in a dynamic pose. The factory lights reflect off his metal surface.]
-
-===
-PAGE 26-27:
-Other robots gathered to watch. At first, they laughed. But then they saw something in Bolt they'd never seen before.
-
-Happiness.
-
-And happiness is contagious.
-
-Soon, the whole factory floor was dancing. Even Foreman Clank was attempting a spin (though he nearly knocked over a stack of crates).
-
-[Illustration: The entire factory floor dancing. Robots of all shapes and sizes moving to the music. Foreman Clank is spinning awkwardly. Bolt is in the center, clearly having the time of his life.]
-
-===
-PAGE 28 (Final page):
-From that day on, Bolt still sorted. He was still the best sorter in the factory.
-
-But now, when the music played, Bolt danced.
-
-And he discovered something wonderful: the best thing to sort wasn't gears or parts or pieces.
-
-It was joy.
-
-[Illustration: Bolt dancing in the middle of the factory. Other robots dance around him. The scene is colorful and full of energy. Bolt has a big, happy glow on his face display.]
+== PAGE 20 (BACK COVER - PORTRAIT) ==
+Blurb (embedded in artwork):
+Bolt is the best sorting robot in the whole factory. He never misses and he never drops a single gear.
+But one day he hears music drifting from the break room, and something inside him wants to move.
+A joyful story about trying something new, being brave enough to be silly, and finding the best thing of all to sort: joy.
+Credit (embedded in artwork): Created by Hamidreza Rostami
+Art: Complementary factory artwork: a warm glowing robot factory floor with colorful dancing robots, floating music notes and sparks, Bolt dancing in the middle with a happy glowing face.
