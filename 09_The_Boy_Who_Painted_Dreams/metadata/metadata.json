@@ -1,0 +1,72 @@
+{
+  "book_number": 9,
+  "title": "The Boy Who Painted Dreams",
+  "author": "Hamidreza Rostami",
+  "creator_credit": "Created by Hamidreza Rostami",
+  "language": "English",
+  "target_age": "3-9 years",
+  "genre": "Children's Picture Book",
+  "moral_lesson": "Imagination belongs to the person who makes it, and the worlds you create are always waiting for you to come back.",
+  "short_description": "A boy whose paintbrush starts to shimmer paints a door into a dream world made of his own pictures.",
+  "long_description": "Leo loves to paint so much that his bedroom is covered in pictures, right up to the ceiling. One night, painting a starry sky above his bed, he feels his brush change: the bristles shimmer with stardust, and the stars he paints lift off the ceiling and become real. Soon a crescent moon hangs in the air, clouds drift through the room, and a tiny lit cottage with a smoking chimney sits on his dresser. Then Leo has a big idea, and paints a real wooden door. Beyond it waits a world of talking animals, flying fish, candy trees and lemonade rivers, all of it made from his own paintings and all of it delighted to meet him. When the night ends, his creations promise to wait for him, and Leo learns that the magic was real all along, and it was his.",
+  "keywords": ["painting", "imagination", "dreams", "magic", "paintbrush", "stars", "creativity", "adventure", "bedroom", "children's book"],
+  "themes": ["Imagination", "Creativity", "Wonder", "Belonging", "The magic of making"],
+  "page_count": 20,
+  "page_structure": {
+    "1": "front cover",
+    "2-19": "story pages",
+    "20": "back cover"
+  },
+  "format": {
+    "orientation": "portrait",
+    "aspect_ratio": "9:16",
+    "pixel_dimensions": "768x1376",
+    "color_model": "RGB",
+    "images_per_pdf_page": 1,
+    "double_page_spreads": false
+  },
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation), dreamy painterly rendering, glowing starlight and soft magical gradients, rich night blues against bright paint colours",
+  "art_direction": {
+    "character_lock": "Leo is identical on every page: about seven, messy dark brown hair sticking up at the back, big warm brown eyes, light freckles, gap-toothed grin, paint-splattered BLUE t-shirt, dark navy shorts, and MISMATCHED SOCKS - one red, one blue, with NO shoes.",
+    "creature_lock": "The purple elephant is small and round with big floppy ears, tiny sparkling silver wings and amber eyes. The giraffe is green with darker green polka dots and a long neck. The flying turtle is round and green with big feathered wings.",
+    "punctuation_rule": "Dialogue uses double quotation marks throughout. Narrative prose carries no quotation marks. Contractions are rewritten out (do not, did not, it is) so no stray apostrophes appear.",
+    "paragraph_rule": "The back cover blurb is set in three clearly separated paragraphs with a visible blank gap between them, in normal mixed case."
+  },
+  "color_palette": ["deep indigo", "warm gold starlight", "candy pink", "mint green", "purple", "cream"],
+  "main_characters": [
+    {
+      "name": "Leo",
+      "type": "Child",
+      "description": "A seven-year-old boy with messy dark brown hair, big brown eyes, freckles, a blue paint-splattered t-shirt, dark shorts and mismatched red and blue socks.",
+      "personality": "Curious, joyful, wildly creative, fearless"
+    },
+    {
+      "name": "The purple elephant",
+      "type": "Dream creature",
+      "description": "A small round purple elephant with big floppy ears, small white tusks, tiny sparkling silver wings and kind amber eyes.",
+      "personality": "Welcoming, warm, encouraging"
+    },
+    {
+      "name": "The giraffe",
+      "type": "Dream creature",
+      "description": "A tall green giraffe covered in darker green polka dots with a long neck and a gentle face.",
+      "personality": "Cheerful, eager to learn"
+    },
+    {
+      "name": "The flying turtle",
+      "type": "Dream creature",
+      "description": "A round green turtle with a domed patterned shell and large feathered wings.",
+      "personality": "Patient, playful"
+    }
+  ],
+  "settings": ["Leo's starry bedroom", "The dream world: candy hills, lemonade river, lollipop trees"],
+  "emotional_journey": "Busy joy -> Wonder -> Astonishment -> Delight -> Exhilaration -> Belonging",
+  "text_rendering": "All story text, title, blurb, and credit are embedded directly inside the AI-generated artwork images. No code-rendered typography.",
+  "pdf_assembly": "Python (Pillow) used only to combine finished AI page images into one PDF.",
+  "rebuild_date": "2026-11-04",
+  "file_locations": {
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "pdf": "pdf/The_Boy_Who_Painted_Dreams.pdf"
+  }
+}
