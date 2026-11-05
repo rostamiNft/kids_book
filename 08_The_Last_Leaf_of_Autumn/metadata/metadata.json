@@ -1,0 +1,85 @@
+{
+  "book_number": 8,
+  "title": "The Last Leaf of Autumn",
+  "author": "Hamidreza Rostami",
+  "creator_credit": "Created by Hamidreza Rostami",
+  "language": "English",
+  "target_age": "3-9 years",
+  "genre": "Children's Picture Book",
+  "moral_lesson": "Letting go is not the end of something. It is the beginning of something new.",
+  "short_description": "The last leaf on the great maple tree is not ready to fall, until the wind teaches him what letting go really means.",
+  "long_description": "Rustle the maple leaf loves his branch. It is the perfect branch, high in the great maple tree, with the best view in the whole park. All spring he grew, all summer he danced in the wind, and now autumn has come. One by one every other leaf turns gold and red and lets go, but Rustle holds on. He is not ready. Not yet. As the tree grows bare and the wind grows stronger, Rustle slowly discovers something surprising: he is changing too, and he is becoming beautiful. On a moonlit night the wind whispers to him that falling is not the end but the beginning of something new. At dawn, the last leaf of autumn finally lets go, and finds that the world below is waiting to welcome him.",
+  "keywords": ["autumn", "leaf", "maple", "fall", "letting go", "change", "courage", "wind", "seasons", "children's book"],
+  "themes": ["Courage", "Change", "Letting go", "Trust", "Becoming yourself"],
+  "page_count": 20,
+  "page_structure": {
+    "1": "front cover",
+    "2-19": "story pages",
+    "20": "back cover"
+  },
+  "format": {
+    "orientation": "portrait",
+    "aspect_ratio": "9:16",
+    "pixel_dimensions": "768x1376",
+    "color_model": "RGB",
+    "images_per_pdf_page": 1,
+    "double_page_spreads": false
+  },
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation), warm golden autumn light, painterly rendering with glowing sunbeams and soft bokeh, rich russet and amber palette",
+  "art_direction": {
+    "character_lock": "Rustle is always the same maple leaf: soft friendly face painted into his surface, two gentle dark eyes, small kind mouth, rosy cheeks, slim russet-brown stem, gently lobed maple points, slightly curled edge.",
+    "colour_progression": "Rustle's colour changes exactly as the story demands and never reverts: green with gold at the edges (pages 2-8), mid-transformation green centre / gold veins / red edges (page 9), full red and gold (pages 10-19). On night pages he stays red and gold, only silvered by moonlight - never white, cream, pink or grey.",
+    "wind_rule": "The wind is NEVER drawn as a creature, face, body or person. It appears only as soft luminous spiral ribbons of air, drifting leaves and curved light lines.",
+    "punctuation_rule": "Dialogue uses double quotation marks throughout. Narrative prose carries no quotation marks. Contractions are rewritten out (I am, do not, it is, cannot) so no stray apostrophes appear.",
+    "paragraph_rule": "The back cover blurb is set in three clearly separated paragraphs with a visible blank gap between them, in normal mixed case."
+  },
+  "color_palette": ["russet red", "warm amber", "honey gold", "deep maple brown", "moonlight silver-blue", "dawn pink"],
+  "main_characters": [
+    {
+      "name": "Rustle",
+      "type": "Maple leaf",
+      "description": "A maple leaf with a soft friendly face, two gentle dark eyes, a small kind mouth, rosy cheeks, a slim russet-brown stem and gently lobed points.",
+      "personality": "Loving, cautious, brave, quietly determined"
+    },
+    {
+      "name": "Amber",
+      "type": "Maple leaf",
+      "description": "A warm golden-orange maple leaf with a cheerful face and a long stem.",
+      "personality": "Joyful, encouraging"
+    },
+    {
+      "name": "Golden",
+      "type": "Maple leaf",
+      "description": "A bright yellow maple leaf with a laughing face.",
+      "personality": "Playful, fearless"
+    },
+    {
+      "name": "Crimson",
+      "type": "Maple leaf",
+      "description": "A deep red maple leaf with a bold friendly face.",
+      "personality": "Bold, warm"
+    },
+    {
+      "name": "The blue jay",
+      "type": "Bird",
+      "description": "A vivid blue jay with a white chest, a black crest and bright curious eyes.",
+      "personality": "Admiring, cheerful, brief"
+    },
+    {
+      "name": "Emma",
+      "type": "Child",
+      "description": "A little girl about six years old with wavy chestnut hair, a mustard-yellow coat, a rust-red scarf and dark green boots.",
+      "personality": "Delighted, gentle, appreciative"
+    }
+  ],
+  "settings": ["The great maple tree in a park", "The canopy in late autumn", "The moonlit branches", "The leaf carpet on the ground"],
+  "emotional_journey": "Contentment -> Reluctance -> Loneliness -> Self-discovery -> Fear -> Trust -> Joy",
+  "text_rendering": "All story text, title, blurb, and credit are embedded directly inside the AI-generated artwork images. No code-rendered typography.",
+  "pdf_assembly": "Python (Pillow) used only to combine finished AI page images into one PDF.",
+  "rebuild_date": "2026-11-04",
+  "file_locations": {
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "pdf": "pdf/The_Last_Leaf_of_Autumn.pdf"
+  }
+}
