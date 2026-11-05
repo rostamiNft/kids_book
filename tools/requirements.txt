@@ -1,0 +1,4 @@
+# Requirements for the book tooling
+# Install with:  pip install --break-system-packages -r tools/requirements.txt
+Pillow>=10.0.0
+pypdf>=3.9.0

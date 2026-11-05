@@ -1,0 +1,54 @@
+{
+  "book_number": 0,
+  "title": "<Book Title>",
+  "author": "Hamidreza Rostami",
+  "creator_credit": "Created by Hamidreza Rostami",
+  "language": "English",
+  "target_age": "3-9 years",
+  "genre": "Children's Picture Book",
+  "moral_lesson": "<one sentence>",
+  "short_description": "<one sentence>",
+  "long_description": "<three to five sentences: the world, the want, the turn, the resolution>",
+  "keywords": ["<8-10 lowercase keywords>"],
+  "themes": ["<3-5 themes>"],
+  "page_count": 20,
+  "page_structure": {
+    "1": "front cover",
+    "2-19": "story pages",
+    "20": "back cover"
+  },
+  "format": {
+    "orientation": "portrait",
+    "aspect_ratio": "9:16",
+    "pixel_dimensions": "768x1376",
+    "color_model": "RGB",
+    "images_per_pdf_page": 1,
+    "double_page_spreads": false
+  },
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation), warm cosy painterly rendering",
+  "art_direction": {
+    "character_lock": "<the exact lock sentence repeated on every prompt>",
+    "punctuation_rule": "Dialogue uses double quotation marks throughout, including each opening mark. Narrative prose carries no quotation marks. Contractions are rewritten out (do not, did not, it is, cannot) so no stray apostrophes appear.",
+    "paragraph_rule": "The back cover blurb is set in three clearly separated paragraphs with a visible blank gap between them, in normal mixed case.",
+    "object_lock": "<description of any key prop or creature, if used>"
+  },
+  "color_palette": ["<5-6 colours>"],
+  "main_characters": [
+    {
+      "name": "<name>",
+      "type": "Child | Adult | Creature",
+      "description": "<same words as the character lock>",
+      "personality": "<3-5 adjectives>"
+    }
+  ],
+  "settings": ["<place 1>", "<place 2>"],
+  "emotional_journey": "<feeling -> feeling -> feeling, ending positive>",
+  "text_rendering": "All story text, title, blurb, and credit are embedded directly inside the AI-generated artwork images. No code-rendered typography.",
+  "pdf_assembly": "Python (Pillow) used only to combine finished AI page images into one PDF.",
+  "rebuild_date": "YYYY-MM-DD",
+  "file_locations": {
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "pdf": "pdf/<Book Title>.pdf"
+  }
+}

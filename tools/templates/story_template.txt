@@ -1,0 +1,46 @@
+THE TITLE OF THE BOOK
+by Hamidreza Rostami
+
+Target audience: Children aged 3-9 years
+Moral lesson: <one sentence; the thing the child should feel by the last page>
+Visual style: High-quality 3D animated children's illustration (cinematic children's animation), warm cosy painterly rendering, honey-gold lamplight, dust motes in sunbeams, rich textures.
+Format: Portrait orientation, 9:16 aspect ratio, 768x1376 px, RGB, one image per page, 20 pages total (1 front cover + 18 story pages + 1 back cover).
+
+CHARACTER LOCK (repeat in every prompt):
+<NAME> - <age/species>, <hair>, <eyes>, <skin>, <garment in the exact colour>, <footwear>, <signature prop>. This description must be repeated word for word on every page; it never changes.
+
+FURTHER LOCKS (if there is a second recurring character or a key object):
+- <NAME 2> - ...
+- <THE OBJECT> - <shape, colour, material, size in words>.
+
+SETTING: <one paragraph: the fixed geography, what is always visible, the palette.>
+
+TEXT RULE: all text is painted into the illustration. Narrative prose carries no quotation marks. Spoken lines keep double quotation marks exactly, including every opening mark. Avoid contractions that invite stray apostrophes (write "do not", "did not", "it is", "cannot").
+
+STORY MAP (check before generating):
+- The climax is on page <N>.
+- The moral is demonstrated on page <N> and echoed in the back-cover blurb.
+- Every page carries exactly one beat.
+
+== PAGE 1 (FRONT COVER) ==
+Title (embedded in artwork): <TITLE, in at most three short lines>
+Credit (embedded in artwork): Created by Hamidreza Rostami
+Art: <the single most inviting image in the book; leave calm sky at the top for the title and calm ground at the bottom for the credit.>
+
+== PAGE 2 ==
+Text: <exact words, narrative or dialogue>
+Art: <one unified scene: camera, characters, action, background, light>
+
+== PAGE 3 ==
+Text: ...
+Art: ...
+
+<... pages 4 to 19 follow the same two-line pattern, one beat each ...>
+
+== PAGE 20 (BACK COVER) ==
+Blurb (embedded in artwork, three clearly separated paragraphs):
+<Paragraph 1: the world of the story.>
+<Paragraph 2: the two turns of the plot, without giving away the ending.>
+<Paragraph 3: the thematic closing line that carries the moral.>
+Credit (embedded in artwork): Created by Hamidreza Rostami
+Art: <complementary artwork; clean cream-to-warm-amber gradient across the lower two thirds for the text.>
