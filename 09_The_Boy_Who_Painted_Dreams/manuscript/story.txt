@@ -1,164 +1,104 @@
 THE BOY WHO PAINTED DREAMS
 by Hamidreza Rostami
 
-===
-PAGE 1 (Cover):
-[Illustration: Leo, a 7-year-old boy with messy dark hair and paint-splattered clothes, standing in his bedroom at night. His paintbrush glows with stardust, and magical creatures are emerging from his paintings on the walls. The title appears in dreamy, star-studded text.]
+Target audience: Children aged 3-9 years
+Moral lesson: Imagination belongs to the person who makes it, and you can always go back to what you create.
+Visual style: High-quality 3D animated children's illustration (cinematic children's animation), dreamy painterly rendering, glowing starlight and soft magical gradients, rich night blues against bright paint colours.
+Format: Portrait orientation, 9:16 aspect ratio, 768x1376 px, RGB, one image per page, 20 pages total.
 
-===
-PAGE 2-3 (Title Page):
-THE BOY WHO PAINTED DREAMS
+CHARACTER LOCK (repeat in every prompt):
+Leo - a boy about seven years old with messy dark brown hair that sticks up at the back, big warm brown eyes, light freckles across his nose, a cheeky gap-toothed smile, wearing a paint-splattered blue T-shirt, dark shorts and one red sock and one blue sock. He carries a wooden paintbrush with a bright red handle and golden bristles that shimmer with stardust. He must look exactly the same on every page.
 
-Written by
-Hamidreza Rostami
+DREAM CREATURES (introduced later, keep designs fixed):
+- The purple elephant: a small round purple elephant with big floppy ears, tiny sparkling silver wings and kind amber eyes.
+- The giraffe: a green giraffe with polka dots, a long neck and a cheerful face.
+- The flying turtle: a round green turtle with big patterned wings.
+- Keep everything else in the dream world soft and whimsical.
 
-[Illustration: Simple design with Leo holding a glowing paintbrush. Paint splatters and stars decorate the page.]
+SETTING: Leo's bedroom at night - sloping ceiling, a small bed under the eave, a dresser, a wooden easel, jars of paint, brushes in a tin, and walls covered edge to edge with paintings. Later: the dream world beyond the painted door.
 
-===
-PAGE 4 (Copyright):
-Copyright © 2026 Hamidreza Rostami
-All rights reserved.
+TEXT RULE: all text is painted into the illustration. Narrative prose carries no quotation marks; spoken lines keep double quotation marks exactly. Avoid contractions that invite stray apostrophes (write "do not", "did not", "it is").
 
-===
-PAGE 5 (Story begins):
-Leo loved to paint.
+== PAGE 1 (FRONT COVER) ==
+Title (embedded in artwork): THE BOY WHO PAINTED DREAMS
+Credit (embedded in artwork): Created by Hamidreza Rostami
+Art: Leo stands in his bedroom at night holding his paintbrush, which glows with swirling stardust. Behind him incredible creatures are emerging from the paintings on his walls: a small purple elephant with silver wings, a green polka-dot giraffe, glowing fish swimming through the air. Stars twinkle on his ceiling. Dreamy, magical, star-studded.
 
-He painted in the morning. He painted in the afternoon. He even painted at night, when he was supposed to be sleeping.
+== PAGE 2 ==
+Text: Leo loved to paint. He painted in the morning. He painted in the afternoon. He even painted at night, when he was supposed to be sleeping.
+Art: A bright daytime scene in a messy, joyful bedroom: Leo at a wooden easel by the window with sunlight pouring in, a brush in his hand and paint on his cheek. Canvases and finished paintings are stacked everywhere, paint jars crowd the floor, splashes of colour cover the rug. Warm, busy, full of life.
 
-His room was covered in paintings—on the walls, on the floor, even on the ceiling (though his mom didn't know about that one).
+== PAGE 3 ==
+Text: His room was covered in paintings. On the walls, on the floor, even on the ceiling, though his mom did not know about that one.
+Art: A wide view of Leo's bedroom from the doorway, showing how every surface is covered: paintings of dragons and boats and animals on the walls, stacks on the floor, and a big starry sky painted across the sloped ceiling, which glows faintly. Leo stands small in the middle of his own colourful world, arms out proudly. Warm evening light.
 
-[Illustration: Leo's bedroom, covered in colorful paintings. Leo is painting on a canvas on the floor. His clothes have paint splatters. The room is messy but creative.]
+== PAGE 4 ==
+Text: One night, as Leo was painting a starry sky on his ceiling, he had a strange feeling. His paintbrush felt different. Lighter. Almost magical.
+Art: Leo on a little step stool at night, reaching up to paint stars on the sloping ceiling, his tongue between his teeth with concentration. A warm lamp glows below, deep blue night fills the window, and the half-finished stars above him. His paintbrush is just beginning to sparkle at the tip.
 
-===
-PAGE 6-7:
-One night, as Leo was painting a starry sky on his ceiling, he had a strange feeling.
+== PAGE 5 ==
+Text: He looked at it closely. The bristles were shimmering, like they were dusted with stardust.
+Art: An extreme close-up of Leo's hand holding the paintbrush, his face behind it blurred but wide-eyed with wonder. Golden bristles sparkle with drifting stardust, tiny glowing motes lifting off the tip and swirling upward. Deep blue background, the glow lighting his fingers. Magical and hushed.
 
-His paintbrush felt... different. Lighter. Almost magical.
+== PAGE 6 ==
+Text: Leo dipped his brush into the paint and touched it to the ceiling. The paint did not just stay on the ceiling. It lifted off. It swirled. It became real.
+Art: A breathtaking moment. Leo reaches up on his stool and touches his brush to the ceiling; the wet golden paint lifts away from the surface in a curling ribbon of light and spirals through the air, turning into a tiny glowing 3D star. Other painted stars trail off the ceiling around it. His face is a picture of astonishment.
 
-He looked at it closely. The bristles were shimmering, like they were dusted with stardust.
+== PAGE 7 ==
+Text: A tiny, twinkling star floated down and landed on Leo's palm.
+Art: An intimate close-up of Leo's open palm cradling a tiny real star, which glows warm gold and throws dancing light across his amazed face and up into the dark room. Delicate sparkles drift from it. He is holding his breath. Tender, luminous, magical.
 
-[Illustration: Close-up of Leo's paintbrush. It's glowing softly with stardust. Leo looks at it with wide eyes.]
+== PAGE 8 ==
+Text: Leo gasped. "Did I just do that?"
+Art: Leo's delighted, wide-eyed face lit from below by the star in his hand, his mouth open in a gasp of wonder, his dark messy hair rimmed with light. The star's glow catches his freckles. Behind him the dark room and the first real stars hovering near the ceiling. Joyful disbelief.
 
-===
-PAGE 8-9:
-Leo dipped his brush into the paint and touched it to the ceiling.
+== PAGE 9 ==
+Text: He painted another star. And another. Soon, his ceiling was a real starry sky, with tiny stars twinkling and dancing.
+Art: A wonderful wide shot: Leo on his stool painting fast, and above him a whole ceiling of REAL glowing stars, floating slightly below the painted surface, twinkling and drifting, filling the room with warm gold light. His silhouette is small and joyful beneath his own galaxy. Awe and delight.
 
-The paint didn't just stay on the ceiling. It lifted off. It swirled. It became... real.
+== PAGE 10 ==
+Text: Leo could not stop. He painted a crescent moon. It hung in the air, glowing softly.
+Art: Leo, brush raised, having just finished a luminous crescent moon that hangs in the middle of his room like a lamp, spilling soft silver-gold light over everything. Real stars twinkle around it. Leo's face is turned up to it, glowing with pride and wonder.
 
-A tiny, twinkling star floated down and landed on Leo's palm.
+== PAGE 11 ==
+Text: He painted a few clouds. They floated across his room like real clouds.
+Art: Soft fluffy white clouds drifting lazily through the bedroom, casting gentle shadows on the walls, one of them brushing past Leo's shoulder as he paints. He reaches up toward them with his brush, laughing. Stars and the crescent moon glow above, warm and whimsical.
 
-[Illustration: Leo painting on the ceiling. The paint lifts off and forms a tiny, glowing star that floats down to his hand. His eyes are wide with wonder.]
+== PAGE 12 ==
+Text: He painted a little house. It sat on his dresser, complete with a tiny chimney and smoke.
+Art: A charming close-up: a tiny real cottage, complete with a red roof, glowing yellow windows and a little chimney puffing a wisp of smoke, sitting on Leo's wooden dresser among paint jars and brushes. Leo leans in close, chin on the dresser, gazing at it with pure delight. Warm lamp light, stars and moon softly blurred behind.
 
-===
-PAGE 10-11:
-Leo gasped. "Did... did I just do that?"
+== PAGE 13 ==
+Text: Then Leo had an idea. A big idea.
+Art: Leo standing in the middle of his starry room, brush in hand, eyes wide and bright as the idea lands. A mischievous grin spreads across his face, and behind him the painted wall, the real moon and the floating clouds all seem to lean in. He looks like he is about to do something wonderful.
 
-He painted another star. And another. Soon, his ceiling was a real starry sky, with tiny stars twinkling and dancing.
+== PAGE 14 ==
+Text: He painted a door on his wall. A beautiful wooden door with a brass knob. And when he turned the knob, the door opened.
+Art: A dramatic, beautiful moment. Leo's brush is just lifting away from a full-size wooden door that is now REAL in his bedroom wall, with carved panels, iron hinges and a round brass knob glowing warm. He reaches out with one hand and turns the knob, and a sliver of bright golden light spills out from the opening. Stars above, anticipation everywhere.
 
-[Illustration: Leo's ceiling now has real, twinkling stars. Leo looks amazed, painting more stars.]
+== PAGE 15 ==
+Text: Beyond the door was a world of dreams. There were talking animals. Flying fish. Trees that grew candy. Rivers that flowed with lemonade.
+Art: A spectacular reveal seen through the open door. Beyond the frame lies a luminous dream landscape: a candy tree heavy with striped sweets, a river of pale golden lemonade winding through soft hills, glossy fish swimming through the air with shimmering fins, and friendly animal shapes in the distance. Leo stands in the doorway, small and silhouetted, staring in wonder. Bright magical light pours into his dark bedroom.
 
-===
-PAGE 12-13:
-Leo couldn't stop. He painted a crescent moon. It hung in the air, glowing softly.
+== PAGE 16 ==
+Text: Leo stepped through the door and into the dream world.
+Art: Leo mid-step through the doorway, one bare foot already on the soft dream grass, looking back over his shoulder with a huge grin, his paintbrush still in his hand. The door frame glows behind him, his dark bedroom on one side and the radiant candy-coloured dream world on the other. Adventures beginning.
 
-He painted a few clouds. They floated across his room like real clouds.
+== PAGE 17 ==
+Text: "Welcome, Leo!" said a small, purple elephant with sparkly wings. "We have been waiting for you," said a green giraffe with polka dots.
+Art: A joyful meeting. The little purple elephant with big floppy ears and tiny silver wings stands in front, lifting her trunk in greeting with a warm smile; behind her the tall green polka-dot giraffe bends his long neck down to look at Leo kindly. Leo stands before them, tiny by comparison, mouth open in delight. Soft candy-coloured dream landscape all around, glowing light.
 
-He painted a little house. It sat on his dresser, complete with a tiny chimney and smoke.
+== PAGE 18 ==
+Text: Leo looked around. "This is my painting!" The elephant nodded. "You painted us. And now we are real!"
+Art: A warm group moment. Leo gestures around at the dream world with both arms, then points at the creatures with an amazed laugh, his paintbrush waving. The purple elephant nods encouragingly with her trunk raised, and the green polka-dot giraffe smiles beside her. Behind them a soft crowd of other painted creatures: a winged turtle, a striped creature, floating fish. Golden dream light.
 
-[Illustration: Leo's room is now magical. A crescent moon hangs in the air. Clouds float by. A tiny house sits on his dresser. Leo looks delighted.]
+== PAGE 19 ==
+Text: Leo spent the night exploring his dream world. He rode on the back of a flying turtle. He ate candy from the trees. He drank lemonade from the rivers. He even taught the polka-dot giraffe how to paint.
+Art: A busy, joyful montage in one scene. In the middle Leo rides high on the round green flying turtle, wings spread wide, arms up with joy. Below, the green polka-dot giraffe holds a paintbrush in his mouth, painting a wobbly sun on a big canvas with his tongue out in concentration, a candy tree behind him and the golden lemonade river winding past with floating fish above. Exhilarating, funny, full of colour.
 
-===
-PAGE 14-15:
-Then Leo had an idea. A big idea.
-
-He painted a door on his wall. A beautiful, wooden door with a brass knob.
-
-And when he turned the knob... the door opened.
-
-[Illustration: Leo painting a door on his wall. The door looks real, with a brass knob. Leo reaches out to turn it.]
-
-===
-PAGE 16-17:
-Beyond the door was a world of dreams.
-
-There were talking animals. Flying fish. Trees that grew candy. Rivers that flowed with lemonade.
-
-Leo stepped through the door and into the dream world.
-
-[Illustration: The door is open, revealing a magical dream world. Talking animals, flying fish, candy trees, and lemonade rivers are visible. Leo looks amazed.]
-
-===
-PAGE 18-19:
-"Welcome, Leo!" said a small, purple elephant with sparkly wings.
-
-"We've been waiting for you," said a green giraffe with polka dots.
-
-Leo looked around. "This is... this is my painting!"
-
-The elephant nodded. "You painted us. And now we're real!"
-
-[Illustration: Leo in the dream world, talking to a purple elephant with wings and a green giraffe with polka dots. Other magical creatures are in the background.]
-
-===
-PAGE 20-21:
-Leo spent the night exploring his dream world. He rode on the back of a flying turtle. He ate candy from the trees. He drank lemonade from the rivers.
-
-He even taught the polka-dot giraffe how to paint.
-
-[Illustration: Leo riding a flying turtle. The polka-dot giraffe is painting on a canvas. Other magical creatures are around them, having fun.]
-
-===
-PAGE 22-23:
-But as the night went on, Leo started to feel tired. His eyes grew heavy. His paintbrush felt heavy in his hand.
-
-The purple elephant noticed. "It's time for you to go back, Leo," she said gently.
-
-Leo nodded. "But I don't want to leave!"
-
-[Illustration: Leo looking tired, holding his paintbrush. The purple elephant looks at him kindly. The dream world is starting to fade slightly.]
-
-===
-PAGE 24-25:
-The elephant smiled. "You don't have to leave forever. You can come back anytime you paint."
-
-Leo looked at his paintbrush. It was still shimmering with stardust.
-
-"But... what about you?" Leo asked. "What happens when I leave?"
-
-The elephant's wings fluttered. "We'll be here, waiting in your paintings. Ready for the next time you visit."
-
-[Illustration: The purple elephant talking to Leo. She looks wise and kind. Leo looks at his paintbrush, then at the elephant.]
-
-===
-PAGE 26-27:
-Leo gave the elephant a hug. Then he gave the giraffe a hug. Then he hugged as many of the dream creatures as he could.
-
-Finally, he stepped back through the door into his room.
-
-[Illustration: Leo hugging the dream creatures. Then he steps back through the door into his room. The dream world looks sad to see him go.]
-
-===
-PAGE 28-29:
-The door closed behind him. The dream world disappeared.
-
-But the stars were still twinkling on his ceiling. The moon was still glowing. The little house was still on his dresser.
-
-And Leo knew he could return anytime.
-
-[Illustration: Leo's room. The door is now just a painting on the wall. The stars, moon, and little house are still real. Leo looks happy and content.]
-
-===
-PAGE 30 (Final page):
-The next morning, Leo's mom knocked on his door. "Leo? Are you awake?"
-
-Leo rubbed his eyes. His room looked normal. The paintings were just paintings again.
-
-But his paintbrush still had a little stardust on it.
-
-And Leo knew.
-
-The magic was real.
-
-And it was his.
-
-[Illustration: Leo's mom knocking on his door. Leo is in bed, looking at his paintbrush which still has a hint of stardust. He looks like he has a wonderful secret.]
+== PAGE 20 (BACK COVER) ==
+Blurb (embedded in artwork):
+Leo loves to paint so much that his bedroom is covered in pictures, right up to the ceiling. Then one night his paintbrush starts to shimmer, and the stars he paints lift off the wall and become real.
+A dreamy story about imagination, wonder, and discovering that the worlds you make are always waiting for you to come back.
+Credit (embedded in artwork): Created by Hamidreza Rostami
+Art: Complementary artwork: Leo stands small in his starry bedroom holding his glowing paintbrush, a crescent moon hanging in the air beside him and stars twinkling across the ceiling, the painted door glowing softly on the wall. Clean deep-blue-to-cream gradient in the lower two thirds for the text.
