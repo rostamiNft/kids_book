@@ -1,0 +1,73 @@
+{
+  "book_number": 10,
+  "title": "The Little Library of Lost Things",
+  "author": "Hamidreza Rostami",
+  "creator_credit": "Created by Hamidreza Rostami",
+  "language": "English",
+  "target_age": "3-9 years",
+  "genre": "Children's Picture Book",
+  "moral_lesson": "Every lost thing has a story, and every story deserves to be heard. Kindness is mostly just listening well.",
+  "short_description": "A small library with a red door, kept by a woman who can hear the stories of lost things, where a lost toy car and a lost friend both find their way home.",
+  "long_description": "At the end of Maple Street, between the bakery and the flower shop, stands a little library with a red door and a chimney that always has smoke curling from it. Inside, Ms. Willow keeps the shelves, and she has a special gift: she can hear the stories of lost things. When Sam comes in sad because his favourite red toy car is gone, Ms. Willow finds the car on the lost-things shelf and tells him the story of its brave journey, rolling down sidewalks, trying to climb a hill, meeting a lost doll in the park. When Emily arrives with a loss no shelf can hold, because her best friend has moved away, Ms. Willow opens the Friendship Box and gives her a small stone and a letter to send. A warm story about kindness, listening, and the quiet magic of being heard.",
+  "keywords": ["library", "lost things", "kindness", "listening", "friendship", "toy car", "grandmother figure", "stories", "community", "children's book"],
+  "themes": ["Kindness", "Listening", "Friendship", "Belonging", "The value of stories"],
+  "page_count": 20,
+  "page_structure": {
+    "1": "front cover",
+    "2-19": "story pages",
+    "20": "back cover"
+  },
+  "format": {
+    "orientation": "portrait",
+    "aspect_ratio": "9:16",
+    "pixel_dimensions": "768x1376",
+    "color_model": "RGB",
+    "images_per_pdf_page": 1,
+    "double_page_spreads": false
+  },
+  "visual_style": "High-quality 3D animated children's illustration (cinematic children's animation), warm cosy painterly rendering with honey-gold lamplight, floating dust motes, rich wood and wool textures",
+  "art_direction": {
+    "character_lock": "Ms. Willow is identical on every page: a kind woman in her seventies, small and round, soft silver hair in a neat bun, round brass-rimmed glasses, gentle crinkly eyes, rosy cheeks, a deep teal knitted cardigan over a cream blouse, a long burgundy skirt and a small silver locket.",
+    "child_lock": "Sam: about six, warm brown skin, short curly black hair, big dark eyes, mustard-yellow knitted jumper and blue denim jeans. Emily: about seven, pale freckled skin, long auburn hair in two plaits, sage-green dress with a white collar. Mia: about five, black bob with a red hair clip, green dungarees. Jake: about six, blond, blue-and-white striped t-shirt.",
+    "punctuation_rule": "Dialogue uses double quotation marks throughout, including the opening mark of each speech. Narrative prose carries no quotation marks. Contractions are rewritten out (do not, did not, it is, cannot) so no stray apostrophes appear.",
+    "paragraph_rule": "The back cover blurb is set in three clearly separated paragraphs with a visible blank gap between them, in normal mixed case.",
+    "object_lock": "The lost toy car is a small bright red rounded toy car. The Friendship Box is a small old dark-wood box whose lid is carved with two birds facing each other; it holds two small smooth pale rose-gold stones."
+  },
+  "color_palette": ["honey gold", "deep teal", "burgundy", "warm brown wood", "cream", "crimson red"],
+  "main_characters": [
+    {
+      "name": "Ms. Willow",
+      "type": "Adult",
+      "description": "The kind elderly keeper of the Little Library of Lost Things, who can hear the stories of lost objects.",
+      "personality": "Patient, warm, curious, a born listener"
+    },
+    {
+      "name": "Sam",
+      "type": "Child",
+      "description": "A six-year-old boy who has lost his favourite red toy car.",
+      "personality": "Worried, hopeful, quick to laugh"
+    },
+    {
+      "name": "Emily",
+      "type": "Child",
+      "description": "A seven-year-old girl whose best friend has moved away.",
+      "personality": "Sad, gentle, brave"
+    },
+    {
+      "name": "Mia and Jake",
+      "type": "Children",
+      "description": "Two children from the neighbourhood who find a lost sock and a lost key.",
+      "personality": "Delighted, lively"
+    }
+  ],
+  "settings": ["Maple Street, between the bakery and the flower shop", "The Little Library of Lost Things interior", "The park (in memory)"],
+  "emotional_journey": "Curiosity -> Sadness -> Hope -> Wonder -> Tenderness -> Warmth, ending on hope",
+  "text_rendering": "All story text, title, blurb, and credit are embedded directly inside the AI-generated artwork images. No code-rendered typography.",
+  "pdf_assembly": "Python (Pillow) used only to combine finished AI page images into one PDF.",
+  "rebuild_date": "2026-11-05",
+  "file_locations": {
+    "manuscript": "manuscript/story.txt",
+    "illustrations_dir": "illustrations/",
+    "pdf": "pdf/The_Little_Library_of_Lost_Things.pdf"
+  }
+}

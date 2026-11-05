@@ -61,7 +61,7 @@ Text: Ms. Willow closed her eyes and listened. Then she began to speak.
 Art: A hushed magical portrait. Ms. Willow sits in her armchair with her eyes closed and her head tilted, listening, one hand open on her knee. The room has gone soft and golden around her, faint glowing threads and tiny sparkles of remembered light curling in the air. The little red car sits on the arm of the chair, Sam's shape a warm blur at the edge. Firelight, deep warmth.
 
 == PAGE 11 ==
-Text: "Your car did not want to be lost. It tried to follow you home. It rolled down the sidewalk, turned the corner, even tried to climb a hill." Sam giggled. "A car cannot climb a hill!" Ms. Willow smiled. "This one tried. For you."
+Text: "Your car did not want to be lost. It rolled down the sidewalk, turned the corner, even tried to climb a hill." Sam giggled. "A car cannot climb a hill!" Ms. Willow smiled. "This one tried. For you."
 Art: A warm storytelling scene. In the glowing upper part of the image, a luminous memory: the little red toy car rolling bravely up a steep green hill with its tiny wheels spinning. In the foreground Sam sits cross-legged on the rug laughing, the real red car in his lap, and Ms. Willow smiles from her armchair. Golden light, cosy and funny.
 
 == PAGE 12 ==
@@ -93,7 +93,7 @@ Text: Ms. Willow opened the box. Inside were two small, matching stones. "Take o
 Art: A beautiful close-up. The open carved wooden box in Ms. Willow's hands holds two small smooth matching stones, pale rose-gold, glowing softly. Emily's small hand reaches in and lifts one stone; Ms. Willow smiles down at her. Warm firelight, dust motes, the shelf of books soft behind. Tender and full of promise.
 
 == PAGE 19 ==
-Text: Emily wrote a letter to her friend. She told her about the library, about the Friendship Box, and about how much she missed her. Ms. Willow mailed the letter, with the second stone inside. And every time Emily held her stone, she felt a little closer to her friend.
+Text: Emily wrote a letter to her friend, and Ms. Willow mailed it with the second stone inside. Now every time Emily holds her stone, she feels a little closer to her friend.
 Art: Emily sits at a small wooden desk writing a letter, the smooth stone beside the paper, her face calm and softly happy. Beside her stands an envelope with the second stone resting on it. Through the open red door in the background Ms. Willow is seen posting the letter into a red postbox on the sunlit street. Warm amber light, the library cosy around her. Hopeful and warm.
 
 == PAGE 20 (BACK COVER) ==
