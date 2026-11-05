@@ -46,7 +46,7 @@ Art: Sam stands close to the counter holding up a crumpled crayon drawing of a r
 
 == PAGE 7 ==
 Text: Ms. Willow led Sam to a shelf filled with lost toys. There were dolls, balls, stuffed animals, and yes, cars.
-Art: A wonderful wide shot of a long low shelf crammed with lost things, each with a tiny hand-written paper label: dolls with one eye, bright rubber balls, stuffed animals of every shape, wooden blocks, jacks, and a row of small toy cars at the end. Ms. Willow leads Sam along by the hand, both looking at the shelves. Warm lamplight, dust motes.
+Art: A wonderful wide shot of a long low shelf crammed with lost things, each with a tiny BLANK paper tag on a string (no writing on the tags): dolls with one eye, bright rubber balls, stuffed animals of every shape, wooden blocks, jacks, and a row of small toy cars at the end. Ms. Willow leads Sam along by the hand, both looking at the shelves. Warm lamplight, dust motes.
 
 == PAGE 8 ==
 Text: She picked up a small, red toy car. "Is this yours?" Sam's eyes lit up. "Yes! That is my car!"
@@ -73,8 +73,8 @@ Text: Sam's eyes were wide. "My car talked to a doll?" Ms. Willow nodded. "Lost 
 Art: A close tender two-shot. Sam's face is full of wonder, eyes round, the red car cradled to his chest. Ms. Willow leans in with a gentle nod and a soft smile, firelight warm on both faces. Deep golden background of books and shadow. Intimate and full of heart.
 
 == PAGE 14 ==
-Text: "Finally," Ms. Willow said, "your car rolled to the library. It knew this was a place where lost things could be found." Sam hugged his car. "I did not find it," Ms. Willow said. "It found its way here, because it wanted to come home to you."
-Art: Outside the library at dusk, seen low to the ground: the red door glowing, light spilling across the pavement, and a tiny red toy car sitting right in front of the step. In the foreground corner of the same image, Sam hugs the little red car tightly against his cheek with his eyes squeezed shut in happiness while Ms. Willow rests one hand on his curly head. Warm windows, purple evening sky, a curl of chimney smoke.
+Text: "Your car rolled all the way here to the library," Ms. Willow said. "I did not find it. It found its way here, because it wanted to come home to you." And Sam hugged his car very tight.
+Art: A warm, emotional close two-shot inside the library at dusk. Sam hugs the little red car tightly against his cheek with both arms, eyes squeezed shut in happiness, while Ms. Willow rests one gentle hand on his curly head, smiling down at him. Behind them the bright red front door glows with evening light through its window, deep amber shadows and bookshelves soft in the background. Tender and safe.
 
 == PAGE 15 ==
 Text: Word spread about the Little Library of Lost Things. More children came, looking for their lost treasures. A girl named Mia found her missing sock. A boy named Jake found his key.
